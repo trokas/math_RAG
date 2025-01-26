@@ -1,0 +1,1215 @@
+x,y,area,problem_text
+-27.428257,6.0453863,algebra,Factor b**3 + 54546399*b**2 + 743827438239999*b + 743827383693601.
+-26.571526,4.261607,algebra,Determine b so that -b**3/3 + 48637*b**2 - 2819913*b + 38651045/3 = 0.
+-28.464165,2.875781,algebra,Solve 56*t**5 - 13093*t**4 + 74534*t**3 - 99072*t**2 + 27360*t = 0.
+-24.83256,7.5982985,algebra,Factor -4*v**2/5 + 55781712*v/5 + 13722543216/5.
+-25.866507,3.798041,algebra,"Find x, given that -2*x**3/13 + 868947944*x**2/13 + 1737895896*x/13 = 0."
+-27.35276,2.693484,algebra,Suppose 94*c**4/5 - 17896764*c**3/5 - 6773930856*c**2/5 - 853891358544*c/5 - 35871334543296/5 = 0. Calculate c.
+-25.845385,3.7827814,algebra,Solve 2*w**3/13 - 327436424*w**2/13 - 21938249522*w/13 + 22265685944/13 = 0 for w.
+-27.736616,1.8635546,algebra,Suppose 4*m**4 + 137080364*m**3 + 8773131008*m**2 + 140370030592*m = 0. Calculate m.
+-27.40283,6.1882143,algebra,Factor -b**3 - 804966*b**2 + 73260567*b + 305921660.
+-28.727535,4.397189,algebra,Suppose i**5/7 - 1159*i**4/7 - 121145793*i**3/7 + 605767055*i**2/7 + 969157048*i/7 - 830753520 = 0. Calculate i.
+33.80456,22.416607,measurement,Convert 61.4713047mm to centimeters.
+31.172077,19.8733,measurement,Convert 6247245.68s to milliseconds.
+33.343163,19.835272,measurement,How many years are there in 83117199.6 centuries?
+33.953983,23.941921,measurement,What is 61380.1539ml in litres?
+31.35897,22.955652,measurement,How many grams are there in 0.269662182ng?
+33.89928,24.029247,measurement,How many millilitres are there in 88071.7322 litres?
+33.95242,23.924412,measurement,How many litres are there in 79378183.5 millilitres?
+32.99716,19.19031,measurement,Convert 566.565336 millennia to decades.
+32.912804,19.698719,measurement,Convert 0.658198254 centuries to millennia.
+33.38241,18.65332,measurement,Convert 3.5095188 decades to years.
+33.728756,-12.96464,numbers,What is 23211434211.17 rounded to the nearest one hundred thousand?
+30.029243,-12.987159,numbers,What is -96143.0684661 rounded to one dp?
+32.089535,-12.438999,numbers,Round -169609.6776864 to the nearest 10000.
+29.272446,-13.449358,numbers,What is -0.0933032072456 rounded to 3 decimal places?
+29.265509,-13.001538,numbers,What is -728.162634751 rounded to three dps?
+31.720709,-13.769186,numbers,What is -8034.99910255 rounded to the nearest integer?
+32.00255,-12.384487,numbers,What is -13577864467.88 rounded to the nearest 10000?
+28.771778,-12.775399,numbers,Round -0.0321264525712 to two dps.
+31.725887,-13.782741,numbers,What is -1998094.038774 rounded to the nearest integer?
+32.09732,-12.505079,numbers,What is -6965.80335618 rounded to the nearest one thousand?
+17.057226,5.510248,arithmetic,Product of -1 and -0.1244052638.
+17.406494,8.036798,arithmetic,Calculate -86*9741098.
+21.005487,7.095071,arithmetic,0.2*388555756.1
+17.40555,6.6743717,arithmetic,Multiply -6 and -29653132.5.
+17.814783,5.603462,arithmetic,What is 0.03688086174 times -0.06?
+17.911829,7.3801274,arithmetic,Work out -9.4 * 3711106.
+18.213388,6.31313,arithmetic,What is the product of -66235 and 134.336?
+16.595104,7.366993,arithmetic,Work out -3 * -2918352470.
+17.98468,6.456166,arithmetic,Product of 14040 and -176073.6.
+18.63417,6.855139,arithmetic,Calculate -560098*6097.5.
+42.03681,3.2213182,numbers,What is the hundreds digit of 664536706820?
+42.268833,5.890493,numbers,What is the ten billions digit of 39864558302?
+41.157974,5.287248,numbers,What is the tens digit of 849626826960?
+40.694206,5.189633,numbers,What is the tens digit of 559819209040?
+41.208145,5.1982746,numbers,What is the tens digit of 780968523079?
+42.083134,5.154148,numbers,What is the hundred millions digit of 790051827745?
+42.111897,5.6489496,numbers,What is the hundred billions digit of 742896767829?
+42.00883,4.4884334,numbers,What is the thousands digit of 156322382908?
+39.76879,7.0670857,numbers,What is the units digit of 942427354049?
+42.26011,5.8771563,numbers,What is the billions digit of 424980808751?
+-4.076041,-33.723152,comparison,"Put 3, 1, 221, -2, 62, 7, 10, 4, 0 in decreasing order."
+-4.9991603,-32.4874,comparison,"Sort -7, 45, 0, 2, -19, 5, -5, 1, 3."
+-4.244086,-31.978403,comparison,"Put -3, 3, 8, 5, -2, 635, 1, 0, -1 in increasing order."
+-3.5069244,-31.93356,comparison,"Put 5, -3, -1, 0, 3, -5, 7, 36, 46 in descending order."
+-4.5820518,-32.8761,comparison,"Sort 0, 4, -6, 867, 12, -1, 3, 2, 1 in increasing order."
+-4.466638,-33.50141,comparison,"Sort 422, 3, -2, 1, -1, 4, 5, 2, 83 in descending order."
+-4.6812277,-33.143898,comparison,"Sort 4, 1, 7, 16, 6, -4, 383, -3, 2."
+-3.8760173,-32.934917,comparison,"Sort -3, 4, 3, 25, -5, 9, 5, 160, 6 in descending order."
+-5.108839,-33.051277,comparison,"Sort 2, -1, 0, 11, 3, 5, 73, 14, -5."
+-3.8589187,-33.31413,comparison,"Sort -4, 4, 3, -2, 91, 37, -1, 5, 8 in descending order."
+-10.579177,54.16747,probability,Five letters picked without replacement from owkwuwzk. Give prob of sequence zuuko.
+-12.7999735,54.720104,probability,"Five letters picked without replacement from {d: 1, c: 1, y: 1, g: 1, n: 1, u: 2}. Give prob of sequence gcuud."
+-12.174023,55.412514,probability,"Five letters picked without replacement from {a: 4, d: 3, y: 1, q: 10, x: 2}. What is prob of sequence aaaya?"
+-12.773366,52.601254,probability,"Five letters picked without replacement from {x: 8, r: 5, e: 3}. What is prob of sequence rexrx?"
+-12.75127,54.302746,probability,"Calculate prob of sequence ggqsg when five letters picked without replacement from {q: 5, g: 2, s: 3}."
+-12.066231,51.804,probability,Five letters picked without replacement from jcpccjeeecjppcp. What is prob of sequence eejej?
+-12.665796,55.71841,probability,"Calculate prob of sequence sssss when five letters picked without replacement from {s: 10, y: 5}."
+-11.82015,51.958683,probability,Five letters picked without replacement from jvzjjvjzzzzjzzfj. What is prob of sequence vjzzv?
+-12.67515,55.44282,probability,"Five letters picked without replacement from {y: 6, v: 5, c: 4}. What is prob of sequence yyccc?"
+-10.622369,55.15207,probability,Five letters picked without replacement from amgaymmakaaa. What is prob of sequence aakam?
+10.658797,-25.822735,comparison,Which is the nearest to 46?  (a) -2/9  (b) -2/3  (c) -439  (d) -0.7  (e) -24  (f) -3  (g) 3  (h) 0.5
+10.259578,-25.483515,comparison,Which is the nearest to 23?  (a) 167  (b) 3/5  (c) 0  (d) 119  (e) 0.1  (f) -4  (g) 1/13
+8.491759,-26.96039,comparison,Which is the nearest to -1401?  (a) 1/5  (b) 3  (c) -1  (d) 0.1  (e) -0.3  (f) -0.04  (g) -46  (h) -2/37
+8.791417,-27.095493,comparison,Which is the nearest to -1029.043?  (a) -6  (b) -2/5  (c) 1/2  (d) 1/3  (e) 2  (f) -3  (g) -1/5  (h) 3
+12.108167,-25.587713,comparison,"What is the closest to -7 in -1, -4, -5, -26812, 2, -42, -3, 4?"
+11.6063,-26.214914,comparison,"What is the closest to -0.2 in -806, -1/6, -1, -135, 4/11, 1, 4?"
+9.345518,-26.675108,comparison,Which is the closest to -1?  (a) 3/4  (b) 5/2  (c) 4/5  (d) 5  (e) -2231/17  (f) 2  (g) 19  (h) -0.5
+11.520545,-25.930532,comparison,"What is the closest to -6 in 2/3, -5, -1/2, -21, 483, 1305, -0.2?"
+11.88717,-26.010065,comparison,"What is the closest to -18 in -3, -5, 0.4, -2/9, 0.1, 1, 0.124, -4.38?"
+9.835603,-26.695292,comparison,Which is the nearest to 5?  (a) 3  (b) -0.3  (c) -6/5  (d) -2/17  (e) 2  (f) -1024  (g) -55
+2.4232218,-30.768282,comparison,"What is the fourth biggest value in 4/9, 0.4, 0.5, 1, 4, 0.3, -0.07071, 0.2, -4, 0.1?"
+1.5490606,-29.907667,comparison,Which is the sixth smallest value?  (a) -2/15  (b) 2  (c) -4/3  (d) -0.09  (e) 0.4  (f) -0.1  (g) 1/28  (h) -3/5  (i) -140  (j) 0.05
+4.839297,-29.31513,comparison,"What is the biggest value in -6, 1/670, -2/5, -1/7, 27, 0, 0.09, -5, -1.8, -3?"
+1.5497552,-29.884459,comparison,Which is the sixth smallest value?  (a) -2  (b) 7/227  (c) 0.3  (d) 129  (e) 0.4  (f) 0.1  (g) -0.04  (h) -47  (i) -2/9
+1.6514151,-31.051966,comparison,Which is the eighth smallest value?  (a) 0.2  (b) 3/2  (c) 0  (d) 2/3  (e) 5  (f) 7/10  (g) 0.02  (h) 4  (i) -2.17959  (j) 0.3
+1.3622252,-30.259336,comparison,"What is the ninth smallest value in -2/43, 3/7, 11/4, -0.07, -0.2, 3/4, 0.3, -1.4, 95?"
+1.5087037,-28.545353,comparison,"What is the second biggest value in -6/31, -0.2, -3/5, -12, -5, 32, -0.5, 1/2, -4/3?"
+4.996315,-29.01725,comparison,Which is the biggest value?  (a) 2  (b) -4/23  (c) -3/2  (d) 1/7  (e) -1/6  (f) -2277  (g) 3  (h) 3/7  (i) 0  (j) -1
+1.2468787,-30.388578,comparison,"What is the ninth smallest value in 13, -0.03, 6/7, 0.59, 2, -91, 0.2, 9, 2.4?"
+1.9289733,-30.386173,comparison,Which is the eighth smallest value?  (a) 33.99  (b) -4  (c) -0.4  (d) 0.233  (e) 1/2  (f) 2/11  (g) 2  (h) -1/5  (i) -0.1
+10.554801,-1.9463612,arithmetic,(125 + 63 - (1 + -9 + (-2 - (-6 - -2))) - -6 - (-17 - (6 - 16))) + 8
+9.66654,-3.4201858,arithmetic,What is 166 - 160 - (212 + (-30 - -66 - 30 - (2 + (3 - (1 - -1) - 2))))?
+10.379744,-3.5437362,arithmetic,What is the value of 0 - 2 - (7 - (6 + -1)) - (60 - 53) - (-4 + 361 - 15)?
+14.423034,-5.2979603,arithmetic,What is 13 + -4 + -220 + 1287 + -1283 + (-2 - 0) + 2 + 3 + (1 - 1)?
+10.573281,-2.5113595,arithmetic,What is the value of 2 + 8 + (3 - (3 - -16)) + (0 - (-6 - (-1 + 1) - -3) - (228 - 108))?
+10.753818,-2.761791,arithmetic,Evaluate (8 + -1 + (10 + -12 - (1 - 4)) - 6) + (240 + (-15 - -4) - (16 - 29)).
+10.092448,-2.5682952,arithmetic,Evaluate 2 - (1 - 2) - 121 - (13 + -1 - (-611 + 568 - (-46 - 2))).
+10.482868,-3.3400433,arithmetic,(-170 - -1) + (2 + 0 + 0 - (-2 - 2) - (-268 + 517 + -246))
+10.904184,-3.3364878,arithmetic,Calculate -1 - 3 - ((-2 - -4 - 3) + -2 + 63 - (-3 - -13 - 14)) - (-17 - -24).
+11.348924,-3.343886,arithmetic,What is the value of (20 + -14 + -21 - -7) + (3 - 5) - ((-10 - -13) + (-3 - 1) + 25)?
+12.500921,19.872868,arithmetic,What is 4937101120 divided by 1652?
+13.2079315,10.8544855,arithmetic,What is 20149466643 divided by -3?
+12.2052765,19.906042,arithmetic,Divide 29142377264 by 52811.
+11.842999,12.175188,arithmetic,What is -873147642 divided by -8313?
+12.977184,11.622268,arithmetic,38589764738 divided by -4197277
+12.243065,12.173288,arithmetic,Divide -161636687212 by -2.
+12.901584,11.404618,arithmetic,Divide 249031819 by -176.
+12.024521,19.476402,arithmetic,What is 63413049623 divided by 7?
+11.9160385,11.463989,arithmetic,-2823513146 divided by -113
+13.006936,11.541738,arithmetic,Calculate 66274 divided by -52378.
+22.745777,-6.9738255,arithmetic,What is 84753.4 minus 765748.924432?
+17.90954,-7.34425,arithmetic,Add -70.357427 and 129057520340.
+17.768536,-6.441446,arithmetic,-239.88+-50457.28198755
+18.090462,-8.872579,arithmetic,Add together 5909.757017 and 6.053866.
+18.060242,-8.68044,arithmetic,Add 0.007202 and 32316.630527764.
+21.33558,-6.5005875,arithmetic,What is -190220.585328821 less than -27?
+21.433928,-6.287279,arithmetic,-285925 - -59338809107.62
+18.101665,-8.577102,arithmetic,Sum 19.22037 and 11446306877.
+22.128965,-6.1230063,arithmetic,What is 6018.2 minus -571.72468449?
+18.73951,-7.2072153,arithmetic,Work out -5345.5 + 93116751713340.
+5.036341,1.9074674,arithmetic,(-28 + 26)/(((-4)/(-6))/(942/(-9)))*(16 + (-2185)/138)/((-2)/6)
+7.075211,1.4467078,arithmetic,What is (-19046)/50 - 1 - (322/(-1725)*7/(-126)*-3 - (92/(-18) - -5))?
+5.747467,1.8297263,arithmetic,Evaluate (-2 + (-170)/3 - ((26/(-10) - 1320/300) + ((-38)/(-2) - 2)))*-6.
+5.6804085,1.7106352,arithmetic,Evaluate ((-420)/(-100)*10/(-4) + (-72)/(-12))*(-1 - 0 - 581/(-21)) - (9 - 3).
+5.3541083,2.6365037,arithmetic,What is ((650/90 - 7)/((-18)/(-2700)) - 0)*(-16)/10*(-4 + 5)*(-54)/(-12)?
+5.8972654,0.5620579,arithmetic,(-4 - 2) + 5084/40 + 1 - ((-14)/(-42)*(-30)/4)/(1 + -26)
+4.861172,1.1353581,arithmetic,(((-122600525)/3096)/(-295) - (-6 - 120/(-25) - (-649)/495)) + (-1)/2*1/4
+5.116662,3.4141204,arithmetic,Calculate ((3/33)/((-16)/(-32)))/(1/(-11)*688/(-1032))*(-30 - 1).
+3.3996375,5.4518414,arithmetic,Calculate (2304/320 - 2896/905)/(((2/(-4))/((-35)/42))/((-2)/(-5))*8/(-138)).
+5.899712,1.4733812,arithmetic,Calculate ((-4)/(-6))/(435/(-87) + (-3 - -2 - ((-5)/((-3700)/(-8)))/((-30007)/(-14990) - 2))).
+-11.715328,54.38787,probability,"What is prob of picking 1 v, 1 z, 1 w, 1 y and 1 q when five letters picked without replacement from zhzhqhzqhhzvqvzwyq?"
+-13.497255,56.780422,probability,"Five letters picked without replacement from {y: 8, d: 1}. Give prob of picking 5 y."
+-11.0224495,54.009136,probability,What is prob of picking 4 u and 1 z when five letters picked without replacement from zuzzuuzzuzuzzuuzzz?
+-13.880645,56.80303,probability,Five letters picked without replacement from {d: 8}. Give prob of picking 5 d.
+-14.802537,56.50162,probability,"Five letters picked without replacement from {w: 9, t: 10}. What is prob of picking 5 t?"
+-11.167362,54.014324,probability,"Five letters picked without replacement from zazzzzzzzzuzazauzzz. Give prob of picking 2 z, 1 a and 2 u."
+-14.1586275,50.62434,probability,"Calculate prob of picking 1 t, 1 d and 3 o when five letters picked without replacement from onoodt."
+-13.529649,53.766724,probability,"What is prob of picking 2 l, 1 e and 2 g when five letters picked without replacement from cgwwleewwslgse?"
+-13.548328,55.494377,probability,"Five letters picked without replacement from {y: 3, j: 7, b: 2}. What is prob of picking 1 j, 1 b and 3 y?"
+-12.076668,54.615047,probability,"What is prob of picking 4 q and 1 h when five letters picked without replacement from {q: 5, y: 1, r: 6, h: 6}?"
+6.2753572,3.727171,arithmetic,190*(-51)/2550*-13*(-345)/299*((-1)/((-3)/(-1)))/((-2)/32)
+5.279695,3.993004,arithmetic,Evaluate (-5702)/(-14255)*(((-9)/108*388)/((-14)/(-21)))/((2/(-30))/((-2)/(-3))).
+6.9198933,3.5246058,arithmetic,What is the value of 14/(-7)*-1*27/(-126)*7*(3*2/(-6))/(((-150)/(-2410))/(-5))?
+6.6380157,2.5747163,arithmetic,Calculate (-1310)/(-524)*((-16)/24)/(2*2/(-86)*(-6*3/(-12))/(-9)*-1).
+4.68045,4.3532376,arithmetic,What is ((141/282)/((-6)/4)*(-12)/(-1))/(4/1686*(-6)/1)?
+6.334843,2.81664,arithmetic,Calculate ((-306)/(-170))/(6*(-1)/1420)*((-60)/32)/(5/((-30)/9))*10/(-25).
+5.72328,3.1528864,arithmetic,Evaluate ((-1*(-3)/(-15))/(62/(-217)*(-21)/(-15)))/(2/(-2100)*7*10/(-8)).
+5.7532783,3.5312986,arithmetic,Calculate ((-270)/((-2)/(-1)))/((-2)/(-1))*(30/(-21))/((-1)/(14/(-6)))*10302/8585.
+6.6407857,3.09498,arithmetic,What is the value of ((14/(-8)*2*21/(-49))/((-24)/(40/5)))/(((-175)/10200)/(-7))?
+4.3222165,3.0717463,arithmetic,What is -8*386*(6/64)/((-29)/(1160/(-150))*56/60*3/(-7))?
+-1.0623915,21.226074,numbers,What is the highest common divisor of 3456 and 128?
+-2.3735762,20.00376,numbers,Calculate the greatest common factor of 408 and 51.
+-3.07111,20.44272,numbers,Calculate the greatest common factor of 603 and 9.
+-9.126814,-11.173804,algebra,"Solve 4*h + 5*l + 17 = 0, 3 + 12 = 5*h - l for h."
+-9.599236,-10.54279,algebra,"Solve -5*u + 3*h = -13 - 0, 0 = -3*u + h + 11 for u."
+-11.246189,-9.504817,algebra,"Solve 6*n - n = -3*f - 1, 4*n = 2*f + 8 for n."
+-5.943377,7.597263,numbers,Calculate the smallest common multiple of 1 and (3 - (-2 - -3)) + (-105)/(-5).
+-6.00517,0.9256483,numbers,Let g = -462205/18 - -25686. Suppose -3*k - k - 4 = 0. What is the common denominator of g and (k/(-8))/((-2)/(-71))?
+-9.170089,4.577811,numbers,Suppose 0 = -3*t + 15 + 9. Let u = 500 + -486. Calculate the least common multiple of u and t.
+42.011063,3.0041604,numbers,What is the hundreds digit of 34600?
+39.58876,7.270592,numbers,What is the units digit of 1231?
+40.646145,3.8680682,numbers,What is the tens digit of 10741?
+-13.780966,53.065315,probability,Two letters picked without replacement from rgrrgege. Give prob of picking 1 e and 1 g.
+-14.906309,54.74938,probability,"What is prob of picking 1 x and 2 d when three letters picked without replacement from {x: 12, f: 1, d: 5, g: 1}?"
+-10.223212,53.375526,probability,Three letters picked without replacement from ubbbbbubbbubbbububb. What is prob of picking 3 u?
+-18.18326,14.259004,arithmetic,Simplify -1 + sqrt(2299) + 2.
+-18.166426,16.70762,arithmetic,Simplify 5 + (sqrt(7) - sqrt(63)) - -6*(sqrt(112))**2.
+-17.391117,17.07295,arithmetic,Simplify (sqrt(56) - (sqrt(560)*1)/sqrt(10))/(3*sqrt(24)/sqrt(3)).
+1.690803,-19.131475,comparison,"Let a be 7/(2*12/(-9)). Let x = a - -163/56. Let v(h) = h**2 + 3*h + 5. Let t be v(0). What is the closest to -0.3 in t, 2, x?"
+-11.135373,-20.499155,comparison,"Let i(x) = x + 5. Let c be i(-4). Let v = -7 + 3. Let r = v + 1. What is the nearest to c in -5, 3, r?"
+5.559777,-23.010557,comparison,Let w be 63/(-24) + 1 + 2. Which is the closest to 1?  (a) -1  (b) w  (c) 4
+-28.3293,-13.043501,polynomials,Let w(s) = -s - 1. Let a(o) = -133 - 137 + 267 - 4*o. Calculate -a(z) + 3*w(z).
+-24.320732,-11.010329,polynomials,Let m(n) = n**2 + 11. Let i(b) = 2. Let z be -5*(3 + 52/(-20)). Let w = 4 + 7. Determine w*i(p) + z*m(p).
+-25.793264,-9.744869,polynomials,Let i(g) = 20*g**2 - 3. Let r(s) = 10 - 60*s**2. What is 10*i(y) + 3*r(y)?
+-19.975018,-4.291232,numbers,Let u(s) = 7 - 24*s. Let z be (-4)/26 + (-102)/13. Is u(z) a prime number?
+-38.72173,-6.6660967,numbers,Let z(x) be the third derivative of x**5/60 + 5*x**3/6 + 3*x**2. Is z(12) prime?
+0.6916919,1.2824605,numbers,Is (-1 - 2)*487/(-3) prime?
+29.557003,-37.62296,algebra,"What is the next term in 20, 27, 32, 35, 36, 35?"
+29.340616,-35.723087,algebra,"What is the next term in 226, 453, 682, 913, 1146?"
+28.738953,-36.020504,algebra,"What is next in -2, 14, 42, 82, 134?"
+33.755215,22.182016,measurement,How many millimeters are there in seven halves of a centimeter?
+34.063145,24.120853,measurement,How many millilitres are there in 53.45115l?
+31.453253,23.13648,measurement,Convert 248.7762ug to kilograms.
+-28.18536,1.8476311,algebra,Suppose -4*r**4 - 56*r**3 - 160*r**2 = 0. Calculate r.
+-26.01213,4.638055,algebra,What is h in -12*h**3 + 116*h**2 - 112*h - 784 = 0?
+-27.482693,6.4511724,algebra,Factor -3*n**3 - 1311*n**2 - 2613*n - 1305.
+13.202022,13.812507,arithmetic,Calculate -620 divided by 124.
+13.267312,13.685379,arithmetic,Calculate -1224 divided by 408.
+11.3405695,12.433531,arithmetic,Calculate -390 divided by -3.
+38.594303,-11.512164,arithmetic,What is the tenth root of 2735 to the nearest integer?
+40.071495,-13.1035795,arithmetic,"What is 29108 to the power of 1/2, to the nearest integer?"
+40.485226,-12.198573,arithmetic,"What is 26928 to the power of 1/3, to the nearest integer?"
+22.358515,-11.641445,numbers,Let j = 1.4021 + 50490.5979. Let u = j - 50491.966973. Let x = -0.033 + u. Round x to five decimal places.
+-13.879961,-6.29693,numbers,"Suppose 0 = -3*r + 2*q + 9, -r + 6*r + q - 2 = 0. Let u be 3 + -100004 + (2 - r). Round u to the nearest one hundred thousand."
+-4.623226,-5.815353,numbers,Let w be (-2047494)/21 - (-4)/(-14). Let h be ((-160)/(-6))/(1/w). What is h rounded to the nearest 1000000?
+-4.2898555,15.506514,numbers,Calculate the least common multiple of 29160 and 24.
+-0.7405599,9.197681,numbers,What is the common denominator of 67/294 and -3/658?
+-1.4965737,10.685726,numbers,Find the common denominator of 3/20 and 97/18.
+-9.961005,51.446087,probability,"What is prob of sequence bb when two letters picked without replacement from {b: 7, k: 5}?"
+-14.1357765,51.459976,probability,"Calculate prob of sequence hooo when four letters picked without replacement from {o: 7, a: 2, h: 2}."
+-11.685928,53.033127,probability,Calculate prob of sequence pww when three letters picked without replacement from uwwwuhhwwhwuuphu.
+31.518677,3.2147653,numbers,What is 21 (base 10) in base 8?
+30.639462,1.3083447,numbers,What is -25 (base 15) in base 6?
+29.46043,1.3547192,numbers,Convert -16 (base 13) to base 14.
+-38.75369,-10.475142,polynomials,Let j(r) be the second derivative of 5/2*r**2 - 3*r + 0 + 0*r**3 - 1/20*r**5 - 5/12*r**4. Calculate j(-5).
+-38.463257,-9.305363,polynomials,Let t(q) be the second derivative of 1/15*q**5 + 1/3*q**3 + 0 - 1/12*q**4 - 1/120*q**6 + 2*q**2 + 3*q. Let o(j) be the first derivative of t(j). Determine o(2).
+-27.465105,-5.360695,polynomials,Let y(i) = i**2 + 221 + 3*i - 227 + 0*i**2. Determine y(-4).
+2.0560577,-17.20118,comparison,Let g = -2 + 4. Let h be (-4)/g - 8/(-2). Is h greater than 5/4?
+-1.9392428,-15.437486,comparison,Suppose 0 = 5*q - 3*q - 22. Which is smaller: 12 or q?
+-12.17781,-5.8431816,comparison,Suppose 24 = -2*k + 6*k. Suppose 2*c - 3 = 17. Suppose k*v = v + c. Is 3 > v?
+10.227455,-19.97497,comparison,Which is smaller: -0.1 or -246?
+11.151687,-19.42785,comparison,Which is smaller: -2/9229 or -1?
+9.7605,-16.12835,comparison,Is 27055 less than or equal to 27055?
+28.269915,15.967085,measurement,How many minutes are there between 12:48 PM and 11:06 PM?
+28.352552,16.469885,measurement,How many minutes are there between 8:09 AM and 1:53 PM?
+27.333183,16.63384,measurement,How many minutes are there between 2:16 AM and 4:26 AM?
+-25.951174,-5.5199175,numbers,Let i(m) = -6*m**3 + 2*m**2 + 2*m + 2. What is the remainder when i(-2) is divided by 14?
+11.219005,-6.8379054,numbers,What is the remainder when (1 - -1) + 1 - -14 is divided by 5?
+-11.253705,-4.33865,numbers,"Suppose -v + 2*v - 16 = 0. Suppose 3*x = 5*x - 8. Suppose -4*j = x*q - 112, -2*q + 96 = q - j. What is the remainder when q is divided by v?"
+29.394747,-13.140241,numbers,What is -0.00361 rounded to three dps?
+34.140865,-12.713741,numbers,What is 965400 rounded to the nearest 1000000?
+28.74707,-14.6888,numbers,What is 0.0000635 rounded to 6 decimal places?
+11.354713,-6.4716115,arithmetic,What is the value of -1 + 1 + (3 - 2) - 1?
+8.425747,3.2049935,arithmetic,What is the value of 2/(-2)*(11 + (-972)/84)?
+11.463535,-5.8553667,arithmetic,What is (2 - 10) + 6 - -7?
+-25.830639,14.442344,polynomials,Expand (2*l - 6 - 3*l + 0*l)*(-2*l - 1 + 1).
+-27.507193,14.254124,polynomials,Expand (3*q - 3*q - 2*q)*(4*q**2 + q**4 + q**2 - q**2).
+-26.651096,17.844015,polynomials,Expand (-2*j + 3 - 3)*(-1 - 2 + 2) - 6 + 5*j - 4*j + 5.
+-40.15824,-11.10649,calculus,What is the third derivative of l**3*u**2 + 52*l**3*u + 2*l**2*u**2 - 2*l**2 + l*u + 131*u**2 wrt l?
+-38.653904,-10.515937,calculus,What is the second derivative of -d**5 - 2*d**4 + 4223*d**2 - 6196*d?
+-41.6949,-12.465678,calculus,What is the derivative of 222 - 82*v**2?
+-26.429354,-17.079643,polynomials,Let g(f) = 9*f**2 - 125*f - 25. Determine g(14).
+-23.79922,-18.28565,polynomials,Let b(n) = 3 - 3*n. Give b(6).
+-25.166193,-18.519413,polynomials,Let n(p) = -3*p - 4. Determine n(-4).
+20.981236,-14.211375,arithmetic,89.8+-0.3
+21.739681,-7.532517,arithmetic,Subtract -64.2 from -0.04.
+16.609764,-6.0437593,arithmetic,Total of 0 and -311928.
+16.645199,4.7698045,arithmetic,Product of -0.93 and 0.
+21.086308,7.8643446,arithmetic,0.025*0.197
+17.611828,8.205299,arithmetic,What is the product of -2.86 and 7?
+-32.786777,16.533882,polynomials,Rearrange -9*b + 16 - 16 to s + m*b and give m.
+-31.564491,13.403581,polynomials,Express -17*a**2 - 12*a**2 - 7*a**2 as d*a**2 + x*a + f and give d.
+-31.65495,15.714862,polynomials,Rearrange 2*q**3 + 90*q**2 - 43*q**2 + 0*q**3 to j*q**2 + g*q + d + s*q**3 and give j.
+-37.600224,-7.720245,algebra,Let s(m) be the third derivative of m**6/120 - m**5/20 - m**4/12 + m**3 + 2*m**2. Let g be s(3). Solve -1/2*r**2 - r**3 + 0*r - 1/2*r**4 + g = 0.
+-36.280197,-5.580242,algebra,"Let u(f) be the third derivative of -f**8/40320 + f**7/10080 + f**5/10 - 6*f**2. Let o(z) be the third derivative of u(z). Find b, given that o(b) = 0."
+-37.603165,-8.819743,algebra,Let l(b) be the second derivative of b**6/600 - b**5/300 - b**4/60 - 2*b**2 - 2*b. Let y(c) be the first derivative of l(c). Factor y(d).
+-10.738065,-3.3706186,numbers,"Suppose -4*q + 5*o - 57 = 0, -q + o = -2*o + 23. What is the units digit of (-3)/(-12) - 6/q?"
+-19.937235,-9.429401,numbers,"Let a(m) = -m**3 - 7*m**2 - 2*m - 8. Suppose 16 = 5*h + 4*w, -h - 3*w = w. Suppose -2*y - 3*t - 14 = 0, -35 = 5*y - 0*t + h*t. What is the units digit of a(y)?"
+0.35164383,-4.1438923,numbers,What is the tens digit of (-6)/8 + (-1015)/(-20)?
+8.947211,6.4483147,arithmetic,What is 3/(-42)*-1*6?
+7.5920444,2.7134001,arithmetic,Calculate ((-5)/(-2))/5*(-4)/(-2).
+9.156138,6.4915113,arithmetic,Calculate -2*1/32*-2.
+14.56881,-5.3423476,arithmetic,-5 + -2 + 2 + 9
+11.6638365,-4.922582,arithmetic,Evaluate -3 + (-2 - (5 - 2)) + 2.
+11.914044,-3.9082706,arithmetic,What is 11 + -19 - -8 - (0 - 4)?
+-2.903201,-24.48525,comparison,"Let v = -1 - -1. Let u be 1*8/(-4) + 3 + 0. Put 3, v, u in increasing order."
+-7.334815,-20.079664,comparison,"Suppose 0*y = -4*l - 5*y - 103, -2*y - 6 = 0. Sort 0.1, -2, l in descending order."
+-6.859011,-20.651463,comparison,"Suppose 0 = -6*y + 9*y - 9. Put 2, -5, y in increasing order."
+9.83736,-27.178396,comparison,Which is the closest to -2/5?  (a) 0.3  (b) 3/2  (c) -0.1  (d) 0.2
+10.388108,-25.239706,comparison,"What is the nearest to 2 in 0.3, 21, -2, 1/4?"
+10.922472,-26.707834,comparison,"What is the closest to -1/16 in 5, 0.4, -2/9, -2/25?"
+1.7755916,-28.150457,comparison,Which is the second biggest value?  (a) -8  (b) 0.4  (c) 3/5  (d) 0.21
+2.922393,-30.015488,comparison,Which is the fourth smallest value?  (a) -0.5  (b) 4  (c) 1/83  (d) -1/8  (e) 0
+3.0553071,-27.748236,comparison,Which is the second smallest value?  (a) 2/7  (b) 0.026  (c) 0.1  (d) 0.5
+-2.1450238,-30.279587,comparison,"Put -57/2, 23, -4, 3/2, 5 in descending order."
+-2.596487,-32.94331,comparison,"Sort -18, 5, -4, 0 in descending order."
+-3.174599,-31.790247,comparison,"Put 10, 3, 22, -3, -1 in decreasing order."
+27.374504,-41.087425,algebra,"What is the g'th term of 2187, 2185, 2183?"
+27.35302,-39.36289,algebra,"What is the y'th term of -2240, -2244, -2250, -2258, -2268, -2280?"
+28.87081,-41.24152,algebra,"What is the b'th term of -10, -6, 4, 20, 42?"
+29.039537,-1.6492006,arithmetic,"In base 13, what is -20 + -5a?"
+29.426653,-1.9840266,arithmetic,"In base 12, what is -4 + -7b?"
+29.099897,-1.5284196,arithmetic,"In base 13, what is -11b - -1a?"
+-14.412809,-7.7288675,algebra,"Suppose -5*h = 0, r - h = -0*h. Let o = r + -7. Let z = o - -26. Solve -5*b - z = 6 for b."
+-12.690675,-7.9672027,algebra,"Suppose -4*d = -4*x + 2*x + 48, 0 = -3*x - 2*d + 56. Suppose f - 3*y + 24 = 9, 4*y = -5*f + x. Solve 2*z - 4*z = f for z."
+-5.90916,-5.889119,algebra,Let v be 2/(-10) - (-2)/10. Let w be (-3 + 3 + v)/1. Let d = 11 - 8. Solve -a - d - 2 = w for a.
+-27.070173,18.834568,polynomials,Collect the terms in 8 - 36*j**2 + 113*j + 116*j - 229*j.
+-31.390354,16.876228,polynomials,Collect the terms in -1 + 31*q**2 - 10 + 11.
+-29.591331,18.11478,polynomials,Collect the terms in -11*t**2 - 11*t**2 - 10*t**2 + 36*t**2.
+-37.781227,-10.067454,calculus,Let c(y) be the first derivative of -35*y**6/6 + 19*y**2 - 38. Find the second derivative of c(p) wrt p.
+-36.61636,-8.549934,calculus,Let a(x) be the second derivative of -67*x**4/12 + 16*x**2 + 4*x. What is the derivative of a(k) wrt k?
+-37.55323,-9.91471,calculus,Let w(p) be the second derivative of 0*p**5 + 1/2*p**2 - 3*p + 0*p**3 + 0 + 0*p**4 + 1/10*p**6. Find the first derivative of w(s) wrt s.
+-28.195154,-8.853531,polynomials,Let j(x) = x. Let i(r) = -2*r**2. What is i(j(d))?
+-28.549524,-11.560359,polynomials,Let s(h) = 22*h**2. Let n(t) = 2 - 168*t**2. Calculate n(s(z)).
+-28.214151,-10.940144,polynomials,Let j(t) = -16*t. Let n(v) = 21 - 12*v. What is n(j(p))?
+0.8742453,-18.08142,comparison,"Suppose 5*g + 10 = 3*g. What is the smallest value in 0.01, -5/2, g?"
+3.1457124,-21.37404,comparison,Let i = 6 + -5.9. Let w = 0.5 + i. Let s = 0.4 + w. Which is the smallest value?  (a) s  (b) -2/13  (c) 0.3
+2.712584,-23.082071,comparison,Let f = 0.034 + -0.334. Which is the second smallest value?  (a) 1/2  (b) -3  (c) f  (d) -8
+4.816254,32.42969,numbers,Is 48835 prime?
+5.314607,32.11844,numbers,Is 62938 prime?
+4.5160503,32.048332,numbers,Is 998821 a prime number?
+-1.9363204,2.5480082,numbers,Let c = -112 + 128. Is 2 a factor of c?
+-21.468195,-2.9472806,numbers,Let w(j) = 4*j + 1. Is 6 a factor of w(15)?
+-7.763152,-2.937983,numbers,"Let h = 109 + -29. Suppose 2*r + 92 = -2*d, 4*r = -d - 48 - 1. Let x = d + h. Does 12 divide x?"
+15.165325,23.286613,numbers,What is the remainder when 287 is divided by 99?
+15.577842,24.115826,numbers,Calculate the remainder when 326 is divided by 166.
+15.292481,24.372744,numbers,Calculate the remainder when 2767 is divided by 917.
+-5.337539,-13.638178,algebra,Solve -26*v - 141 + 11 = 0 for v.
+-5.410297,-10.655079,algebra,Solve -29*n + 4*n = 0 for n.
+-5.532968,-12.12901,algebra,Solve 160 = 76*s - 600 for s.
+-14.485145,-10.2807865,algebra,"Suppose -m - 3 = -4*m. Let t be (-2)/(-4) + (-6)/12. Solve -y + 3*k - 7 = t, -5*y + 2*k - 23 = -m for y."
+-8.186731,-11.176873,algebra,"Let r be -1*(-6)/(-6) - -3. Solve -5*h - 1 = -3*l - 4, -r*l - 2 = 0 for h."
+-8.868309,-8.277347,algebra,"Let x = 0 - -10. Solve 5*m - x = -2*c + 1, -5*m = c - 13 for m."
+-9.690246,0.28655857,numbers,Suppose -4*u + 225 = u. Suppose -n + u = 2*n. Suppose -3*r + 302 = -13. What is the highest common divisor of n and r?
+-9.957856,1.3655707,numbers,Suppose 102 = 5*b + 52. Let j = 59 - -11. What is the greatest common divisor of j and b?
+-3.998333,4.5273304,numbers,Let f be 13/(260/24)*10. Calculate the greatest common factor of f and 16.
+-19.424192,21.06123,polynomials,Simplify (y/(y/(y/(y**4*y))*y)*y*y/y**(5/3)*y*y*y*y)/(y*y**(-2/3))**(-43) assuming y is positive.
+-17.866339,19.98861,polynomials,Simplify (i/(i*((i/(i*i*(i*i/(i*i*i*i**(-4)*i))/i)*i)/i)/i*i)*i/((i/i**0)/i))**(-1/65) assuming i is positive.
+-18.977217,20.5331,polynomials,Simplify d**(1/2)*d/(d/d**(6/11))*d/((d*d/(d/((d/(d/(d**(2/5)*d))*d*d)/d))*d)/d)*d*d**1 assuming d is positive.
+-0.33384123,31.645382,numbers,What are the prime factors of 13120?
+-0.6663997,29.48959,numbers,List the prime factors of 557.
+-0.16618037,30.830978,numbers,What are the prime factors of 15141?
+7.535735,25.165735,numbers,Does 32 divide 4192?
+7.5323086,22.579943,numbers,Is 133 a factor of 266?
+8.161447,22.101492,numbers,Is 2331 a multiple of 14?
+-14.052358,-2.0710347,numbers,"Suppose 3*b - 353 = -2*z, 2*z = 2*b - 3*b + 115. List the prime factors of b."
+-14.053143,-0.0642334,numbers,Suppose -5*n = -7*n + 90. What are the prime factors of n?
+-22.702494,-4.7587733,numbers,Let j(k) = 4*k**2 - 14*k + 17. What are the prime factors of j(7)?
+-1.8147079,21.93702,numbers,What is the highest common factor of 44 and 1725548?
+-2.1404731,20.356789,numbers,What is the greatest common factor of 1944 and 414?
+-0.98741955,21.17919,numbers,What is the highest common divisor of 35119 and 280?
+-9.848939,-6.9016953,algebra,"Solve 6978*d - 6976*d - 18 = -3*i, 3*i = -d + 21 for i."
+-7.845819,-12.64405,algebra,"Solve -5*l - 111*x + 84 - 3 = -125*x, x = -x - 8 for l."
+-9.72632,-8.476608,algebra,"Solve -50*c + 17 = -3*n - 46*c, -7*n + 4*c + 3 = 0 for n."
+-6.793834,6.5305185,numbers,Let s = 135 + -74. Suppose 2*c = 11 + s. What is the smallest common multiple of 22 and c?
+-7.814796,5.8409343,numbers,Suppose 14*g - 621 = 11*g. Calculate the smallest common multiple of g and 9.
+0.06873189,8.852767,numbers,What is the common denominator of 70/(-264)*((-380)/50 + 8) and 145/42?
+42.43953,3.2861094,numbers,What is the hundreds digit of 1800446?
+42.444305,4.0647407,numbers,What is the hundred thousands digit of 2087482?
+39.757385,7.085421,numbers,What is the units digit of 2413773?
+-14.436477,52.720406,probability,What is prob of picking 1 c and 1 o when two letters picked without replacement from oyoeygyoogceoegyoog?
+-10.278504,53.032726,probability,"Calculate prob of picking 1 b, 1 u and 2 o when four letters picked without replacement from bqubtqooqqbbtobobttb."
+-14.270603,53.376076,probability,"Four letters picked without replacement from {i: 1, g: 5, n: 5}. What is prob of picking 2 n and 2 g?"
+-18.631388,16.961985,arithmetic,Simplify (5 + sqrt(931)*2 - sqrt(931) - sqrt(931)) + sqrt(931) + sqrt(931) + (sqrt(931) - (sqrt(931) - (-2*sqrt(931) + -1)))**2.
+-18.638878,14.907702,arithmetic,Simplify -2 + 0 + sqrt(1216) + sqrt(1216) + 2 + -1 + (-1*sqrt(1216))**2 + sqrt(1216).
+-19.695108,15.808698,arithmetic,Simplify (2*(3 + 1 + sqrt(153) - (sqrt(153) - (2 + (sqrt(153) - sqrt(153)*3)))) + 4)**2.
+4.549753,-21.284403,comparison,"Let n = -0.23 - 0.07. Let s = -2600/3 - -866. What is the nearest to 1 in n, s, 1/5?"
+-3.8672554,-17.216764,comparison,"Let t = 0.01 - 0.01. Suppose 4*i + 27 = 13*i. Suppose 2*s - i*s + 2*k = -1, 2*s = -2*k + 2. Which is the closest to 0?  (a) 1/3  (b) t  (c) s"
+-21.37053,-13.896046,comparison,Let s(l) = -l**2 + 8*l - 3. Let u be s(7). Let n be (-8)/6*(u + -1). Let w = 37 + -34. Which is the closest to 2/3?  (a) n  (b) w  (c) 0.1
+-28.346186,-12.749681,polynomials,Let x(t) = 1 - t. Let o(r) = 2*r + 42. Give 2*o(z) + 2*x(z).
+-24.028881,-10.032391,polynomials,Let n(g) = -g**3 - g**2 + 1. Let x be ((-2)/4 - 10/20)*-1. Let d be (-12)/(x/(-1)*(-6)/12). Let i(k) = 9*k**3 + 8*k**2 - 8. What is d*n(t) - 3*i(t)?
+-25.147482,-9.5411825,polynomials,Let f(i) = 3*i - 5 - 17*i**2 + 34*i**2 - 20*i**2. Let b(q) = 4*q**2 - 4*q + 6. Let a(r) = -4*b(r) - 5*f(r). Let s(l) = l**2 - 4*l - 3. Determine -3*a(g) - s(g).
+0.7425708,1.3096704,numbers,Is (-210)/35 - 18358/(-2) a prime number?
+-15.76122,-1.4503325,numbers,Let m = 6 + 0. Suppose 0 = 5*c + m - 21. Suppose 127 = 4*w - c*w. Is w prime?
+6.551759,30.872898,numbers,Let j = 2430 + 1163. Is j prime?
+27.163559,-37.03449,algebra,"What is next in -158, -177, -208, -251, -306, -373, -452?"
+26.860304,-37.23922,algebra,"What is next in -644, -666, -696, -734?"
+27.51838,-37.318233,algebra,"What is next in -86, -350, -798, -1424, -2222?"
+33.376728,18.67619,measurement,Convert 543.4702 decades to years.
+30.475784,19.484314,measurement,What is eight thirds of a hour in seconds?
+31.57026,20.04554,measurement,Convert 1.079141 weeks to milliseconds.
+-27.819468,3.4819756,algebra,"Find s, given that -3*s**5/5 - 2229*s**4/5 - 56451*s**3/5 - 75375*s**2 - 64530*s = 0."
+-29.59391,2.0050511,algebra,Determine o so that 4*o**3 + 844*o**2 + 8140*o + 20100 = 0.
+-28.351234,3.653061,algebra,"Determine z, given that z**4/5 - 387*z**3/5 - 234*z**2 = 0."
+12.602975,12.900396,arithmetic,62964 divided by -99
+12.175514,13.118224,arithmetic,-866261 divided by 11
+13.7095175,11.7246,arithmetic,7996608 divided by -4
+39.899284,-13.4684105,arithmetic,"What is 175777 to the power of 1/2, to the nearest integer?"
+38.801144,-12.775537,arithmetic,What is the square root of 6969949 to the nearest integer?
+38.616436,-13.223126,arithmetic,What is the square root of 11389694 to the nearest integer?
+22.22286,-12.593951,numbers,Let n = -4.7 + 3.425. Let a = n + -36.005. Let q = a - -38. What is q rounded to 1 dp?
+21.606016,-12.606944,numbers,Let f = -24 - 48. Let i = f + 72.34. What is i rounded to one decimal place?
+23.590378,-9.632436,numbers,Let f = -9.4 - -9.5354. Round f to 2 decimal places.
+-3.7892892,16.024147,numbers,What is the lowest common multiple of 28536 and 834678?
+-0.6370154,9.793013,numbers,Calculate the common denominator of -25/18 and 67/45138.
+-0.30749533,9.835892,numbers,Calculate the common denominator of -32/14139 and 47/30.
+-10.527389,52.03024,probability,Two letters picked without replacement from bfffbbbffq. Give prob of sequence qb.
+-10.517781,52.45933,probability,Calculate prob of sequence qu when two letters picked without replacement from uptpjjqu.
+-12.199138,53.25736,probability,"Three letters picked without replacement from {w: 3, p: 3, h: 1, m: 1, a: 2}. Give prob of sequence mhw."
+30.464907,0.26437604,numbers,Convert -11122011 (base 3) to base 10.
+29.208492,1.1503816,numbers,What is -160 (base 9) in base 16?
+30.185196,1.6766928,numbers,Convert -2751 (base 8) to base 13.
+-20.737194,-9.709989,polynomials,"Suppose -5*r + 2*r + 159 = 0. Suppose 15 = -3*n, 3*n + r = -4*d - 2*n. Let f(t) = t**3 + 6*t**2 - 7*t + 6. Determine f(d)."
+-20.826963,-10.377946,polynomials,"Let o(m) = m**3 - 4*m**2 + m - 5. Suppose -3*a - 9 = -2*k - 2, -4*k - 13 = 3*a. Let v be (-12)/6*a/(-2). Let r be (-1)/(1/v) - -1. Determine o(r)."
+-34.257492,-8.74787,polynomials,Let v(s) = 4*s**2 - 3*s + 15. Let m(r) = -3*r**2 + 2*r - 10. Let k(n) = -7*m(n) - 5*v(n). Let l(w) be the first derivative of k(w). Give l(-7).
+-20.559156,-15.213608,comparison,Let x(o) = -o**2 - 2*o + 2. Let h be x(-4). Let m = -2/305 - 24/61. Is m greater than or equal to h?
+4.7956862,-19.592413,comparison,Let d = -8.5 + 49.5. Let z = d + -41.003. Is -0.1 bigger than z?
+4.263814,-18.07636,comparison,Let r = -419.96 - -347.2. Let g = r - -73. Does g = -0.2?
+10.242535,-19.496737,comparison,Is -252037 greater than -252038?
+9.382418,-17.710428,comparison,Which is smaller: 404679 or 404675?
+11.882602,-19.572063,comparison,Is 1 > -263/674?
+27.50533,16.355381,measurement,How many minutes are there between 12:26 AM and 9:10 AM?
+28.025179,14.636728,measurement,What is 374 minutes after 1:20 PM?
+28.627563,16.114185,measurement,How many minutes are there between 5:49 PM and 8:10 PM?
+-10.001474,-4.5121593,numbers,"Suppose -4*c + 25 = -43. Suppose -5*x = -u - 227, -4*x + 221 = x - 3*u. What is the remainder when x is divided by c?"
+-11.101878,-4.154969,numbers,"Suppose 5*x - 1 = p, 4*p - 11 = -0*p + 5*x. Suppose 2*q + 3*q - 4*g = 75, 0 = -p*q + g + 49. What is the remainder when q is divided by 4?"
+-11.755067,-4.6368012,numbers,"Suppose -3*i - 3*b + 15 = 0, b + 0*b = 0. Suppose i*k = -4*d + 4, -2*k = k - 4*d - 28. What is the remainder when -1 + (k - 1) - -40 is divided by 16?"
+28.482767,-13.064783,numbers,Round -0.06222915 to 5 dps.
+32.3767,-14.145114,numbers,Round 5742.5164 to the nearest integer.
+34.06978,-12.874481,numbers,Round 233732300 to the nearest 1000000.
+11.853503,-3.1835349,arithmetic,Calculate 18 + 0 - (10 - (-3 - (1 + -13))).
+8.208362,0.76447254,arithmetic,Evaluate (-1 - -15) + (17390/(-30))/47.
+10.879822,3.335734,arithmetic,What is (0*(-21)/(-126))/(6 - 2 - 7)?
+-26.4654,15.362786,polynomials,Expand (-5*m**2 - 2*m**2 + 2*m**2)*(-m**3 + 2*m**3 + m**3)*(-12 + 31 - 65).
+-26.5988,14.4356985,polynomials,Expand (-246*p + 199*p + 721*p)*((-3 + 4 + 1)*(2*p + p - 2*p) - 3*p + 3*p + p).
+-27.849588,16.553715,polynomials,Expand 75*v**3 + 33*v**3 - 80*v**3 + 3*v**2 - 3*v**2 - v**3 + (v**3 - 2*v**3 + 2*v**3)*(1 - 5 + 2).
+-40.54622,-12.223879,calculus,Differentiate 11*l*p**3 + 6*l - 4391*p**4 + 6874 with respect to p.
+-40.191563,-8.871735,calculus,Find the third derivative of -2*g*t**3 + 3*g*t**2 - 876*g*t + 2*g - 42038*t**3 - 2*t**2 wrt t.
+-41.875084,-8.156185,calculus,What is the third derivative of 2*m**3*q**3*r - 2249223*m**3*q**2 - 991699*m*q**3 + 2*m*q**2*r + 2*q**2*r wrt q?
+-26.409048,-19.12991,polynomials,Let v(s) = -13*s**2 + 24*s + 11. Give v(4).
+-24.81154,-20.186565,polynomials,Let s(t) = -t**3 + 188*t**2 + 4*t - 741. Determine s(188).
+-22.679993,-17.284708,polynomials,Let q(l) = -10*l**2 - 66*l + 23. Give q(-6).
+21.878784,-7.416389,arithmetic,Calculate -4347.848 - -0.05.
+23.200762,-7.799961,arithmetic,What is 0.11108375 minus 0.17?
+21.087938,-5.928334,arithmetic,What is 432565 minus -3.295?
+18.748594,7.2950034,arithmetic,Multiply -156 and 0.4108.
+18.501812,5.780409,arithmetic,What is the product of 32.2 and -140?
+16.76823,7.264054,arithmetic,Work out -3 * -84079.
+-30.75707,13.766952,polynomials,Express 2141*a**4 - 1071*a**4 - 1078*a**4 - 2*a**3 - a**2 + 24*a**2 as v*a + g + y*a**3 + o*a**2 + p*a**4 and give p.
+-31.409414,13.502206,polynomials,Rearrange 16*a**2 - 1845*a + 1847*a + 1171*a**2 + 156*a**2 to y*a + d*a**2 + h and give d.
+-27.65106,12.650155,polynomials,Express (-123 - 58 - 25)*(1 - 1 - f) as w + r*f and give w.
+-36.101906,-11.787057,algebra,"Suppose o - 5*c = -15, -3*c + 2*c = -3. Let l(v) be the second derivative of v - 3*v**3 - 1/4*v**4 + o - 27/2*v**2. Factor l(u)."
+-38.68002,-5.3854504,algebra,Let n(r) be the first derivative of -15 + 32*r - 8*r**2 + 2/3*r**3. Factor n(i).
+-38.413662,-8.146289,algebra,Let j(g) be the third derivative of g**8/20160 - g**7/1260 + g**6/180 + g**5/30 + 13*g**2. Let q(c) be the third derivative of j(c). Factor q(u).
+-3.64888,-5.1790953,numbers,"Let u be ((-4)/(-5))/(1/(-5)). Let y(r) = -r**2 - 4*r + 4. Let w be y(u). Suppose -2*l + w*c + 12 = 6*c, 0 = -c - 5. What is the tens digit of l?"
+-0.4389948,-4.4145803,numbers,Let d be (3 + -30)*18/2. Suppose 0*r = r - 6. What is the tens digit of d/(-9)*8/r?
+-18.940485,-13.17726,numbers,Let n(u) = -2*u**2 - u. Let c(j) = j**3 + 4*j**2 - 4. Let t be c(-4). Let w be n(t). Let g = 66 + w. What is the units digit of g?
+10.999758,3.4531662,arithmetic,What is (-6)/(-18)*0/(-39)?
+7.9182477,3.4644775,arithmetic,What is the value of ((-1)/14)/(1320/462)*-2*2?
+6.2087517,4.860521,arithmetic,Calculate (13/6*-2)/(81/(-243))*-3.
+11.98043,-4.9372697,arithmetic,What is (12 + -16 - 10 - (1 + -1)) + 3?
+12.323893,-3.94171,arithmetic,Evaluate (9 - (-14 + 40)) + (-5 - 9).
+11.2853565,-5.449703,arithmetic,What is the value of -10 - ((-1 - 8) + 6 - 14)?
+-6.993343,-21.407015,comparison,"Suppose -16 = 501*j - 509*j. Put 0, -3, -7, j in ascending order."
+-2.1252177,-22.695745,comparison,"Let c be 27/(-168) - 2/(-7). Let i be ((-3)/(-159))/(4/16). Let d = i + 78/371. Put -5, c, d in descending order."
+-3.3817341,-23.084585,comparison,"Let k = -49.8 + 50.7. Let b = 1 - 1.2. Let m = k - b. Sort m, -3, 4 in descending order."
+9.302137,-25.414032,comparison,Which is the nearest to 19?  (a) 422  (b) -4/9  (c) 2  (d) 10
+9.501535,-28.37664,comparison,Which is the nearest to 22/239?  (a) 1/5  (b) -1/5  (c) -10  (d) 0.5  (e) -2
+10.553482,-28.098204,comparison,Which is the closest to 1/5?  (a) 3  (b) 5  (c) 829
+3.6129444,-30.480724,comparison,Which is the fourth biggest value?  (a) -0.2  (b) 0.2  (c) -0.35  (d) -249
+1.393942,-28.264524,comparison,"What is the second biggest value in 24, -4/7, 2/23, 1, 173?"
+2.332133,-29.385937,comparison,"What is the third smallest value in 0, -1/10, -5, 111, -0.4, 3?"
+-1.0805376,-30.262524,comparison,"Put 3/4, 37, -1 in increasing order."
+-1.2411429,-30.859781,comparison,"Put -0.3, -9, 4/9, 10 in decreasing order."
+-3.330476,-33.000988,comparison,"Sort 9, -4, 2, -5, 23 in decreasing order."
+27.85983,-40.312428,algebra,"What is the l'th term of -19, -80, -185, -334, -527, -764?"
+28.24659,-39.603268,algebra,"What is the z'th term of -185, -740, -1653, -2912, -4505, -6420, -8645?"
+28.609673,-40.174015,algebra,"What is the h'th term of -4742, -19100, -43038, -76562, -119678, -172392, -234710?"
+27.128353,0.22936952,arithmetic,"In base 5, what is -1114 - 110?"
+27.980326,-1.1385273,arithmetic,"In base 14, what is -2d - 1d52?"
+31.32778,-1.894468,arithmetic,"In base 9, what is 2 + 542065?"
+-12.3404455,-8.662286,algebra,"Suppose 2*z + 4*h = -10, 12*z = 14*z - 3*h - 18. Solve 0 = z*f - f + 10 for f."
+-13.470433,-11.076374,algebra,Let p = 20 - 18. Suppose -p*f - 25 = -7*f. Solve -7 - 13 = f*t for t.
+-6.7062097,-7.757927,algebra,Let x = -56 - -54. Let y = x + 2. Solve -4 = -y*c + 4*c for c.
+-28.733315,18.169796,polynomials,Collect the terms in -77*d + 29*d - 16*d - 55*d.
+-30.535015,18.042414,polynomials,Collect the terms in 2551931*u**3 + 2551922*u**3 - 5103856*u**3.
+-29.398252,17.77046,polynomials,Collect the terms in 530*p**2 - 254*p**2 - 141*p**2 - 134*p**2.
+-37.064724,-9.570171,calculus,Let y = 7/155 + 24/155. Let m(w) be the second derivative of 0*w**2 + 0 + 0*w**4 + 3*w + y*w**5 + 5/3*w**3. Find the second derivative of m(g) wrt g.
+-36.57572,-11.57084,calculus,"Suppose -2*o - 15 = 5*c, 3 = c - 2*c. Let t = 4 + o. Find the second derivative of t*g**5 + 5*g**4 + 6*g**4 - 11*g**4 - 6*g wrt g."
+-35.674164,-9.6125555,calculus,Let i(y) = -y**2 + y + 6. Let s be i(4). Let h = s - -7. What is the third derivative of -h + 2 - 2*u**2 - 1 + 4*u**3 wrt u?
+-22.974617,-11.709225,polynomials,"Let x(m) = m**2. Suppose 3*i + 4*a = 9, -5*a = -2*i - 9*a + 6. Let y(o) = -3*o - 2. Let v(h) = h + 1 + 3*h + 2. Let q(k) = i*y(k) + 2*v(k). What is q(x(f))?"
+-26.84129,-9.208703,polynomials,Let j(r) = r. Let c(n) = 606*n**2 + 40 - 605*n**2 + 7. Determine j(c(g)).
+-26.73755,-11.966679,polynomials,Let r = 55 + 8. Let a(o) = -o. Let x(g) = -18*g. Let d(f) = r*a(f) - 3*x(f). Let z(u) = -u. Calculate z(d(b)).
+0.707829,-23.973875,comparison,"Let u be -2*9/10 - -1. Let b be (4/1)/2 + 5/(55/(-22)). What is the second biggest value in b, 0.5, u, 0.1?"
+1.0536515,-25.92971,comparison,"Let q = 3533/5 - 706. What is the biggest value in 0.5, 0, q, 5?"
+3.379833,-24.122875,comparison,Let v = 16.3 + -16. Let w = -5.3 + v. Which is the fourth biggest value?  (a) -3  (b) -4  (c) -0.2  (d) w
+4.6111264,28.771017,numbers,Is 160541 composite?
+4.4053817,31.733416,numbers,Is 400891 a prime number?
+4.0565333,31.511435,numbers,Is 4500401 prime?
+-1.9742167,2.588076,numbers,Let a = 174 - -342. Is 12 a factor of a?
+-6.5831585,-2.1374915,numbers,Let c be (10/4)/5 - 36/(-8). Suppose -c*p + 261 = -289. Does 33 divide p?
+-12.578342,0.2460909,numbers,Suppose -2*v + 7*v = 360. Is v a multiple of 6?
+14.694076,23.521576,numbers,Calculate the remainder when 538 is divided by 295.
+14.000512,25.576612,numbers,Calculate the remainder when 7050 is divided by 1224.
+14.71448,23.935112,numbers,Calculate the remainder when 195389 is divided by 26.
+-3.8905246,-9.722664,algebra,Solve 33*a + 50 + 16 = 0 for a.
+-7.432296,-13.225709,algebra,Solve 177*l = 368 + 2110 for l.
+-7.4584618,-13.04161,algebra,Solve -50*l + 144 = 22*l for l.
+-16.368061,-8.54425,algebra,"Let p = -40 - -47. Let u(m) = 1 - 5*m. Let w be u(-1). Solve -o + p = 2*l, -2*o + 16 = -l + w*l for o."
+-11.637315,-8.095097,algebra,"Suppose 29 = 2*f + 11. Suppose f*p = 5*p. Suppose p = 3*j - 4*s - 1, -15 = -3*j - 5*s + 4. Solve 5*h + j*a - 32 = 0, -h + 2*a + 2*a - 12 = 0 for h."
+-14.567442,-6.808939,algebra,"Let t be -2 + 4 + 4 + -4. Let z be (6/4)/(3/6). Suppose 9 = -0*u + z*u. Solve -p + 5*q = 6, -2*p - 3*q = u*p + t for p."
+-23.17605,-8.710905,numbers,Let s(v) = -2*v**2 - 2*v. Let w be s(-4). Let t be (0 - -3)*w/(-9). Let y be (-3 - -10 - 3)/((-12)/(-192)). Calculate the greatest common factor of t and y.
+-23.574635,-7.5073986,numbers,Let l(r) = -r**2 - 22*r + 5. Let y be l(-12). What is the greatest common factor of y and 5?
+-9.7522135,0.474653,numbers,"Let w = -84 + 122. Suppose -5*p - 36 = -2*n - 2*p, -4*p - w = -2*n. What is the highest common divisor of n and 60?"
+-19.229,21.25197,polynomials,Simplify (k*k**(24/7))**(43/5)/((k**(1/43)/k)/((k**(4/11)*k)/k)) assuming k is positive.
+-20.50853,20.641052,polynomials,Simplify ((o/o**(-1/8)*o*o*o/o**(-3/2))/(o/(o**(1/3)/o))**(-35))**(-1/35) assuming o is positive.
+-20.2627,22.488052,polynomials,Simplify (((j**(-6))**(-5/4))**41)**(-3/29) assuming j is positive.
+-0.7379474,30.276186,numbers,List the prime factors of 16606626.
+0.5115124,29.207159,numbers,List the prime factors of 13638938.
+0.52108127,29.696873,numbers,List the prime factors of 10103227.
+9.118823,23.869043,numbers,Does 465 divide 118575?
+8.894984,24.150259,numbers,Is 2 a factor of 7753?
+8.676813,23.679188,numbers,Is 236 a factor of 779508?
+-15.566626,-3.84652,numbers,"Let q be 0 - (-4 + (-1)/1). Let i = -2 + q. Suppose -4*f + 5*o + 162 + 34 = 0, 5*o - 147 = -i*f. List the prime factors of f."
+-14.522293,-4.1115937,numbers,"Let r be 2*-6*(-3)/12. Suppose 8*a = r*a + 25. Suppose 6*p - p - 140 = -5*k, p = a*k + 52. List the prime factors of p."
+-14.214415,0.0621519,numbers,Suppose -2939 = -6*c + 841. What are the prime factors of c?
+-2.190505,21.137472,numbers,Calculate the highest common factor of 6033092 and 25883.
+-0.9326504,20.476591,numbers,What is the greatest common divisor of 41933 and 2328385?
+-1.9608881,21.468391,numbers,Calculate the highest common factor of 1945507 and 112393.
+-12.097142,-13.9571705,algebra,"Solve 6*t + 4*w = 74, -5*t - 314416*w = -314415*w - 50 for t."
+-11.654479,-12.084458,algebra,"Solve -5*y + 3*r - 30 = 0, 2*y - 5*r = -6226 + 6195 for y."
+-9.514255,-10.795086,algebra,"Solve 5*k - 44*h - 15 = -50*h, 0 = 29*k - 2*h + 97 for k."
+-6.4473753,7.9126806,numbers,Let x = -9 - -19. Let m = -105800 + 105856. Calculate the least common multiple of x and m.
+-8.3423815,4.536779,numbers,"Let q be (2/(-4)*1)/((-3)/24). Suppose -q*x = -8, -x = -5*p + 4*x + 140. What is the lowest common multiple of p and 24?"
+-5.6997848,7.738719,numbers,What is the smallest common multiple of 30/(-50)*-2*(0 - (-1407 + -3)) and 8?
+42.97084,5.1676164,numbers,What is the ten millions digit of 6801187835?
+41.17212,3.7441196,numbers,What is the thousands digit of 10741312?
+41.87491,3.8896754,numbers,What is the hundred thousands digit of 330036945?
+-15.199808,54.32991,probability,"What is prob of picking 2 c when two letters picked without replacement from {x: 2, f: 7, e: 3, c: 5}?"
+-13.111547,52.24293,probability,Four letters picked without replacement from emmmmexmx. What is prob of picking 2 e and 2 x?
+-14.052284,53.51689,probability,"Two letters picked without replacement from {g: 1, s: 3, p: 1, v: 1, o: 1}. Give prob of picking 2 g."
+-19.176353,15.756653,arithmetic,Simplify (-3 + sqrt(245)*-1 + 3 + sqrt(245))**2*6 + (sqrt(45)*3 - (sqrt(80) + -1))**2 + -2.
+-18.636114,15.380547,arithmetic,Simplify 2*-4*(2 + 0 + -1*(sqrt(2057)*-2 - sqrt(2057))) + -2.
+-18.64856,16.129198,arithmetic,Simplify ((sqrt(500) - sqrt(500)*2)*-2 + (sqrt(500) - (sqrt(500) + 0)) + 4 + -3 - (sqrt(500) - (1*sqrt(500) - sqrt(500)))*4*-1*3)**2.
+-23.791538,-15.911703,comparison,Let w(t) = t**3 - 2*t**2 - 4*t - 1. Let v be w(3). Let m = 6618 - 6618. Which is the closest to 0.6?  (a) 16  (b) v  (c) m
+4.7438016,-20.98795,comparison,"Let s = -0.029 - -0.079. Let o = 126.8 - 127. What is the nearest to -1 in s, -6, o?"
+-1.5932251,-15.736099,comparison,Suppose 4*v - 421 - 459 = 0. Let q = v - 225. Which is the nearest to 3?  (a) -3  (b) 0.04  (c) q
+-32.50342,-9.368782,polynomials,Let u = -6797 - -6807. Let l(x) = x**2 - 2*x - 3. Let c(n) be the third derivative of 0 - 5/6*n**3 + 0*n + 1/30*n**5 - 3*n**2 - 1/8*n**4. Give u*l(v) - 6*c(v).
+-25.207045,-14.003267,polynomials,Let l(d) = -d**2 - d. Let b(t) = 2*t**3 - 8*t**2 - 3*t + 186. What is b(w) - 4*l(w)?
+-24.88796,-11.49722,polynomials,Let v(y) = 3 - 34*y. Let f(m) = 9*m. Let r(z) = 38*z + 199. Let q be r(-5). Let j(p) = q*f(p) + 2*v(p). Let c(b) = 12*b + 5. Determine 4*c(x) - 3*j(x).
+-15.752425,-0.7571279,numbers,Suppose -235546 = 20*m - 22*m. Is m a prime number?
+0.8344603,1.3863965,numbers,Is 44/297*-9 - (-97027)/3 a prime number?
+-0.58431613,-0.55066776,numbers,Suppose -3416 = -33*s - 182. Is 2/7 - 212009/s*-2 a composite number?
+29.720802,-36.440914,algebra,"What is next in 121110, 241927, 362744, 483561, 604378?"
+27.737167,-37.018604,algebra,"What is next in -10842072, -10842062, -10842038, -10841994, -10841924, -10841822, -10841682, -10841498?"
+28.904188,-37.184086,algebra,"What is the next term in -2920, -27, 2876, 5795, 8736, 11705?"
+33.045288,19.227,measurement,How many decades are there in 0.198104 millennia?
+33.4465,19.73623,measurement,How many centuries are there in 0.7543975 years?
+33.780285,24.071238,measurement,Convert 42810.21 litres to millilitres.
+-24.844564,7.255598,algebra,Factor 2*u**2/11 - 18391172*u/11 + 42279400941698/11.
+-27.546457,2.6937478,algebra,Let 5*a**4/6 - 11182*a**3/3 - 4507*a**2/6 + 25351*a - 17892 = 0. What is a?
+-24.79657,7.0645046,algebra,Factor 2*h**2/3 - 8210*h/3 - 8216.
+12.268907,20.695662,arithmetic,Divide 5108815 by 95.
+12.173821,11.3651,arithmetic,-1153263900 divided by -404654
+13.340514,12.590598,arithmetic,Divide -1671238 by 4.
+39.806156,-11.264461,arithmetic,"What is 197565845 to the power of 1/7, to the nearest integer?"
+40.328396,-12.003325,arithmetic,What is the cube root of 147457298 to the nearest integer?
+38.853092,-13.322259,arithmetic,What is the square root of 554681367 to the nearest integer?
+24.070421,-10.161015,numbers,Let g = -20411.9990422 - -20412. What is g rounded to 4 dps?
+21.859316,-11.8075485,numbers,Let n = -48 + 87. Let r = -0.6599581 - 38.3400119. Let u = r + n. Round u to four dps.
+21.432407,-10.867528,numbers,Let q = -1027489 + -25161. Let r = q + 282650. Round r to the nearest 1000000.
+-0.522623,10.02239,numbers,Calculate the common denominator of -101/69384 and 107/784.
+-0.49418738,9.424782,numbers,What is the common denominator of -27/1647256 and -95/56024?
+-4.158857,16.634768,numbers,Calculate the smallest common multiple of 40075 and 1400.
+-11.563155,56.260517,probability,"What is prob of sequence nyl when three letters picked without replacement from {l: 3, y: 6, n: 6}?"
+-11.65904,50.79442,probability,What is prob of sequence iif when three letters picked without replacement from illlfifffiliiilllfi?
+-12.968193,54.004482,probability,"Three letters picked without replacement from {z: 4, w: 1, k: 6, g: 6}. What is prob of sequence ggz?"
+31.522476,3.024123,numbers,10340502 (base 7) to base 8
+27.796383,2.304247,numbers,-100001100100000111010 (base 2) to base 10
+29.660984,1.786526,numbers,Convert -11564 (base 13) to base 2.
+-22.749207,-12.443887,polynomials,Let d(w) = 3*w**2 - 8*w - 8. Let z be d(-2). Suppose 6*k + z = k. Let q(p) = -p**2 - p + 7. Determine q(k).
+-25.09309,-14.631161,polynomials,Let d(l) = -17*l**3 - l - 1. Let w(c) = -413*c - 1238. Let t be w(-3). Determine d(t).
+-20.535154,-16.220543,polynomials,Let b = -1570 - -1567. Let c(o) = -7 + 2*o**2 + 3*o + 2*o - 3*o. Calculate c(b).
+3.26051,-19.541866,comparison,Let l = -57648/71 + 812. Let m = -5810 - -5811. Which is smaller: m or l?
+-12.665202,-9.407927,comparison,"Suppose -2*f + 65 = 3*x, -5*x + x - 38 = -f. Let n be -46 - ((-4)/(-12))/((-1)/(-3)). Let k = f + n. Does 0.3 = k?"
+3.5515425,-19.81137,comparison,Let r = 132 - 132. Let m = 693.29 + -690. Which is smaller: r or m?
+9.21717,18.152996,comparison,Are 3508719 and 10526155/3 non-equal?
+10.086831,-15.324226,comparison,Is 33371.77 greater than or equal to 6/5?
+10.377522,-20.152115,comparison,Which is smaller: -14206497 or -0.8?
+28.408592,15.816892,measurement,How many minutes are there between 4:34 PM and 11:14 PM?
+26.847437,15.1019745,measurement,What is 155 minutes before 11:40 AM?
+26.661718,15.5130415,measurement,What is 313 minutes before 3:48 AM?
+-25.73873,-6.2414384,numbers,Let z(c) = -14*c**2 + 18 + 11*c - 3*c**3 - 44 - 26*c. Calculate the remainder when z(-6) is divided by 35.
+-26.312908,-7.2546434,numbers,Let j(d) = -d**2 - 7*d + 1. Let f be j(-6). Calculate the remainder when 1361/f - (-186)/(-434) is divided by 66.
+0.9539759,3.8714678,numbers,Let t be (8 - 2) + (-23)/((-230)/(-620)). Let n = t - -88. Calculate the remainder when n is divided by 5.
+29.043596,-12.432529,numbers,What is -581.8802116 rounded to 2 dps?
+33.60933,-12.793486,numbers,Round 1300902.4 to the nearest 100000.
+28.654572,-13.798209,numbers,Round -0.00000800429875 to 6 decimal places.
+6.9811516,0.02083208,arithmetic,(8 - 3 - (-5)/5) + (516/(-54) - -4)
+7.478324,0.98481464,arithmetic,Calculate (-20 + 11 + (-10)/(-1))/(((-68)/88)/(-17)).
+8.733981,1.7709315,arithmetic,Evaluate 2604/(-882) - 28/(-42).
+-24.45952,13.969337,polynomials,Expand (5 - 4 + 1)*(3 - o - 3)*(3*o**3 - 14*o**3 + 4*o**3 + 6*o**4 - 4).
+-26.199984,16.296549,polynomials,Expand (-4*d + 5*d - 5*d)*(0 - 2 - 15)*(18 - 171 + 97).
+-28.4027,15.886585,polynomials,Expand 20655*r**5 - 11129*r**5 - 10192*r**5 + (-2*r + 0*r + r)*(r**4 - r + r) + (-3*r**4 + 2*r**4 + 0*r**4)*(r - 4*r + r) - 2*r**5 - r**5 + 4*r**5.
+-39.72122,-7.7819667,calculus,Find the third derivative of j**5 - 8276267*j**4 + j**3 + 536174*j**2 + 15 wrt j.
+-41.63798,-10.034675,calculus,What is the derivative of 145353682*b**2*f**2 - 100*b**2 + 3*b*f**2 + 37519*b wrt f?
+-40.938797,-9.672895,calculus,Find the second derivative of 3*f**3*n + f**2*n**2 - 56789*f**2*n + 8*f*n**2 + f*n - 48*f + 15923*n wrt f.
+-26.342995,-19.165783,polynomials,Let n(s) = -s**2 - 297*s + 3050. What is n(10)?
+-22.942488,-17.447117,polynomials,Let r(l) = -178*l**3 - 16020*l**2 + 17*l + 1532. Give r(-90).
+-23.366392,-19.611906,polynomials,Let h(b) = -138*b - 8080. Determine h(-61).
+19.38678,-6.744987,arithmetic,What is -3.1 plus 35574780469?
+17.939354,-6.768963,arithmetic,Add -72253173.722 and -0.0146.
+17.535109,-5.8682113,arithmetic,Add together -22306 and -8155006.
+19.740181,8.75349,arithmetic,Multiply 31 and 16318.
+18.210413,7.2413793,arithmetic,Work out -8 * 2483.4019.
+16.312498,6.7940583,arithmetic,What is -10465103 times -3?
+-29.19992,12.650325,polynomials,Express (-5 - 4 + 5)*((-20 - 29 + 6)*(423 - 423 - 115*z) + z - 3 + 3)*(-1 - 2 + 5) as t*z + y and give t.
+-26.372435,13.361098,polynomials,Rearrange (49523 + 36871 + 8978 - 19501)*(2 - 2 - p + 2) to o*p + y and give y.
+-31.893211,15.033088,polynomials,Rearrange 2*d - 1912*d**3 - 1884*d**3 + 3821*d**3 + 91*d**2 to l*d + v + r*d**3 + p*d**2 and give r.
+-26.618366,0.51620543,algebra,"Let u be 44 + 1820/(-340)*8. Find k, given that 0 - u*k**3 - 24/17*k - 2/17*k**4 + 46/17*k**2 = 0."
+-26.96195,4.2877965,algebra,"Determine f, given that 27*f**2 - 5*f**3 - 38 + 3*f**2 - 5*f - 8*f - 12*f - 22 = 0."
+-33.105682,-10.7286625,algebra,Let v(t) = t**2 - 42*t - 284. Let j be v(-6). Let m(d) be the first derivative of -20 - 2*d**j + 0*d**3 - 4/5*d**5 + 4*d**2 + 4*d. Determine g so that m(g) = 0.
+-18.924738,-14.310187,numbers,Let y(x) = -x**3 - 26*x**2 + 135*x - 1. What is the hundreds digit of y(-33)?
+25.425224,-8.334559,numbers,Let b = 141379 - 74449. What is the hundreds digit of b?
+-17.620113,-13.160253,numbers,Let q(d) = 217*d**2 + 6*d - 106. What is the units digit of q(7)?
+7.506391,5.3576155,arithmetic,What is the value of ((-12)/(-315))/(20/120)*-7?
+9.085628,4.6108537,arithmetic,Evaluate (-75)/1*((-2788)/51)/82.
+8.344692,4.30007,arithmetic,1190/((-119)/(-7))*99/(-99)
+11.677949,-3.8556216,arithmetic,What is the value of -19 - (-5 - -9) - (-25 - -50)?
+9.625463,-4.307122,arithmetic,-1 + 46 - (-7 - (-164 - -189))
+11.659905,-2.8226194,arithmetic,Evaluate 5 - ((0 - -20) + (-126 - -124)) - 18.
+-3.2756124,-24.120031,comparison,"Let u = 3.505 + -6.505. Sort u, -10, 5, 1/4 in increasing order."
+-7.6993847,-19.406618,comparison,"Suppose 2*a - 5 = -m, -m = -2*a + 4 - 1. Suppose 4*l = -3*w + 199, -2*w - 11*l + 121 = -6*l. Suppose 58*v = w*v + 30. Put -5, v, 5, m in ascending order."
+-3.5273745,-21.88352,comparison,"Let c be 6/(54/(-9))*4. Let b = 14 - 7. Sort c, b, 0 in increasing order."
+8.462955,-25.984436,comparison,Which is the closest to 0.87?  (a) -3  (b) 3/10  (c) 744/13
+11.364858,-25.02264,comparison,"What is the closest to 1 in 1, -3, -967, -0.2?"
+11.199821,-25.477827,comparison,"What is the closest to 1 in 1, 2/9, -1, 18791, -3/19?"
+3.4411862,-28.03673,comparison,Which is the third smallest value?  (a) -17757/7  (b) 5  (c) -101  (d) 0.06
+2.1778946,-27.66471,comparison,Which is the second biggest value?  (a) 0.04  (b) -0.3  (c) 314677/4  (d) -2/11
+3.2756581,-30.887453,comparison,Which is the fourth biggest value?  (a) -0.1  (b) 0.00358  (c) 3  (d) -5  (e) -88
+-4.610918,-32.365902,comparison,"Sort -5, 8, 3, 1043, -42."
+-3.2635136,-33.22759,comparison,"Sort 4, -2948, 0, -7, -1 in ascending order."
+-1.0305659,-29.809753,comparison,"Put -13/2430229, 1, 2/7 in increasing order."
+28.781086,-39.887016,algebra,"What is the i'th term of -2374, -9394, -20868, -36610, -56434, -80154, -107584, -138538?"
+29.186584,-40.375225,algebra,"What is the j'th term of -28635, -39353, -50071?"
+29.592524,-39.73589,algebra,"What is the i'th term of 1661, 10292, 24687, 44852, 70793?"
+30.712109,-0.80808127,arithmetic,"In base 4, what is 321 + -222312203?"
+28.112307,-1.1225921,arithmetic,"In base 14, what is -d3a4db - 12?"
+29.019587,-0.9350299,arithmetic,"In base 13, what is -3 - bb3907?"
+-4.0799303,-7.264446,algebra,Let j = -10956 - -10959. Solve -254 + 266 = j*w for w.
+-10.414278,-11.55135,algebra,Suppose -315 = -43*h - 48*h + 82*h. Solve 0 = -h*g + 26*g + 45 for g.
+-11.457921,-8.795372,algebra,"Suppose -2440 = 4*f + 4*n, 2*f + 126*n + 1221 = 123*n. Let x = -601 - f. Solve 3*h = -x + 5 for h."
+-29.384083,18.676895,polynomials,Collect the terms in -35 + 16 - 7*w**2 + 23 - w + 66*w**2 + w.
+-29.219072,16.837168,polynomials,Collect the terms in -27 + 30 - 311632766*r**2 + 8*r**3 + 311632766*r**2 - 2*r + 2*r.
+-30.174948,17.261196,polynomials,Collect the terms in -13943592131*c - c**3 + 13943592131*c.
+-34.2318,-10.151315,calculus,Let r(c) = 111*c**2 - 5*c + 111. Let s(j) = 333*j**2 - 14*j + 332. Let u = -128 - -124. Let h(g) = u*s(g) + 11*r(g). Differentiate h(n) wrt n.
+-39.333584,-8.044191,calculus,Let h(r) be the third derivative of 155*r**4/12 - 881*r**3/6 + r**2 - 1652. Find the first derivative of h(j) wrt j.
+-40.662533,-8.104866,calculus,Find the third derivative of 1975*y**2 + 198*y**2 + y + 35*y**3 - 258*y**3 - 14*y**4 + 113*y**3 wrt y.
+-27.53838,-13.889829,polynomials,Let a(w) = 2*w**2. Let s(o) = 175*o - 27 + 161*o - 14 - 335*o. Calculate s(a(d)).
+-25.920849,-9.460903,polynomials,Let r = -2 + 4. Let g(s) = -2622*s**2 - 2*s + 2634*s**2 + r*s. Let n(y) = 727 - 727 + 3*y. Calculate g(n(f)).
+-28.156513,-8.875043,polynomials,Let i(h) = -110777*h - h**2 + 110813*h + 3*h**2. Let f(x) = -x. Calculate i(f(d)).
+2.0975056,-23.102285,comparison,Let g = -86.9 + 86. Let r = g - -0.6. Which is the third biggest value?  (a) -1  (b) r  (c) 1/2  (d) 2/9
+1.8230636,-20.753109,comparison,"Let a = -27 + 42. Suppose -a = r - 4*r. Let u = 3 + -3.5. What is the smallest value in u, -3, r?"
+-1.1601027,-18.055134,comparison,"Let o = -9 + 28/3. Let x(m) = -57*m - 101. Let q be x(-2). What is the fourth smallest value in o, -0.01, 5, q?"
+4.891573,31.547182,numbers,Is 328226491 a prime number?
+4.7445884,30.798054,numbers,Is 11936958521 prime?
+5.443049,31.006453,numbers,Is 258723253 prime?
+-9.998311,-6.6452327,numbers,"Suppose 2*n - 12*i + 7*i = 8059, -4*n = 3*i - 16053. Is n a multiple of 18?"
+-20.661003,-2.698117,numbers,Let r(v) = 3466 - 709*v. Is r(-28) a multiple of 262?
+-15.13048,-5.4235406,numbers,"Let m be 6*(-6)/(-54)*(2 + 1). Suppose -z - 5*r = 4*z - 570, -3*r + 233 = m*z. Is z a multiple of 8?"
+13.67292,24.198229,numbers,What is the remainder when 448868 is divided by 14479?
+13.958454,24.974276,numbers,Calculate the remainder when 45694778 is divided by 652.
+14.955865,25.220913,numbers,Calculate the remainder when 456330 is divided by 2178.
+-6.7720256,-9.950911,algebra,Solve -312 - 153 = -291*f + 117 for f.
+-5.247761,-10.92618,algebra,Solve -527 = -1248*n + 1231*n for n.
+-5.19026,-11.758541,algebra,Solve 1485 = -1320*s + 962*s + 13489 + 19142 for s.
+-14.58844,-9.432256,algebra,"Suppose -4*j = -2*t - 604, -5*t = -j - 36 + 187. Let f = j - 147. Solve -4 = -f*q - 7*y + 2*y, -1 = -q - 2*y for q."
+-12.329478,-11.3245,algebra,"Suppose -10*f = -26*f - 28*f. Solve 2*o - 1 + 11 = 3*y, f = 5*o + 25 for y."
+-12.237473,-7.409268,algebra,"Suppose -16*l + 13*l = 0, -n - n + 4*l + 8 = 0. Solve -2*p = -5*x + 5, -p - 4 = -n*x - 6*p for x."
+-22.653208,-6.5112753,numbers,Let s(c) = 9*c**3 + 12*c**2 - 49*c - 63. Let t be s(8). What is the greatest common factor of 38 and t?
+-20.052488,-7.335103,numbers,Let y(m) = m + 118. Let q be y(-64). Calculate the highest common divisor of 513 and q.
+-6.6208577,1.5342295,numbers,"Suppose -s - 7 = h, -3*h + 16 = -s - 7*h. Let k be (-492)/(-27) + ((-190)/45 - s). Calculate the greatest common factor of 9 and k."
+-20.447205,20.610882,polynomials,Simplify ((o*o**(-17/2))**(2/3)/(o*o*o/(o*(o*o**(8/3)*o)/o)*o**(-10/13)))**(-29) assuming o is positive.
+-18.525372,22.69299,polynomials,Simplify (u**(-44))**(-2/5)/((u**47*u)/((u*u*(u**(-42)/u)/u*u)/u)) assuming u is positive.
+-19.491825,21.486738,polynomials,Simplify (g**(-1/3)*g*g*((g/(g/g**(-6)))/g)/g)**(-2/7)/(g**6/g**5)**37 assuming g is positive.
+0.82044774,29.790915,numbers,List the prime factors of 1748453990.
+-0.08847406,29.454182,numbers,List the prime factors of 138102813.
+1.1913731,29.577501,numbers,List the prime factors of 8350256364.
+9.07342,22.74792,numbers,Is 10985346 a multiple of 558?
+7.354293,23.743378,numbers,Does 15 divide 104208042?
+7.429479,22.723652,numbers,Is 39 a factor of 133655143?
+1.5795189,2.0701923,numbers,List the prime factors of -4 - 194484/(-42) - (-33)/77.
+-22.177187,-7.970709,numbers,"Let f(b) = -b - 8. Let q be f(-11). Let w = -4 - -6. Suppose -w*y = -q*g - 18 + 70, 0 = -g - 3*y - 1. List the prime factors of g."
+-1.7221272,4.2720466,numbers,Let g = -3196 + 5337. What are the prime factors of g?
+-2.0683334,20.063332,numbers,What is the greatest common factor of 210250 and 64000?
+-1.8555738,19.976997,numbers,Calculate the greatest common factor of 29944 and 8132.
+-0.94124055,20.103704,numbers,Calculate the greatest common divisor of 33750 and 133290.
+-2.244975,21.52801,numbers,Calculate the highest common factor of 8603159 and 1941.
+-0.7283295,20.520367,numbers,What is the greatest common divisor of 21682 and 703?
+-0.70203507,20.517729,numbers,What is the greatest common divisor of 728234 and 533?
+-1.8961155,19.61206,numbers,Calculate the greatest common factor of 16878 and 16791.
+-0.66189766,19.964977,numbers,Calculate the greatest common divisor of 952029 and 975.
+-1.7660639,21.698648,numbers,What is the highest common factor of 28857257 and 1118?
+-2.8307025,20.19668,numbers,Calculate the greatest common factor of 2608119 and 3.
+-9.084186,-9.632536,algebra,"Solve 0 = 3*b + 149*v - 152*v + 24, 10*b + 90 = -4*b + 3*v for b."
+-9.120961,-9.68639,algebra,"Solve -2*u - 6 = -2*b, 14 = -2*b - 12*u + 5 + 57 for b."
+-11.331765,-12.227759,algebra,"Solve 981*g - 45 = -5*y + 977*g, y + g = 10 for y."
+-8.7696085,-8.303351,algebra,"Solve 33 = 65*x - 66*x + m + 4, 3*x + 73 = -4*m for x."
+-9.321804,-7.9512477,algebra,"Solve c - i + 103573 = 4*c + 103584, -5*c + 2*i + 33 = 0 for c."
+-8.8603115,-11.920573,algebra,"Solve 5*a - 5*l = 30, 11467*a - l + 15 = 11469*a for a."
+-11.020825,-9.524256,algebra,"Solve -4*f - 19 = -n - 0*n, -27*f - 267 = -30*f + 57*n for f."
+-10.605816,-12.697067,algebra,"Solve 11 = 3*g + 302*p - 303*p, 108 = 25*g + 8*p for g."
+-10.040169,-10.71966,algebra,"Solve -5*h + 86 = 103*b - 101*b, 3*b = -h + 12 for h."
+-11.41062,-9.72265,algebra,"Solve -4*f + 2*f - 3840*a + 3839*a - 34 = 0, 4*f = 2*a + 36 for f."
+-8.003802,5.775165,numbers,Let a(g) = 3*g**2 - 5*g + 4. Suppose -1035*r - 22 = -1076*r + 142. Calculate the least common multiple of a(7) and r.
+-5.9495564,0.7205525,numbers,"Suppose h - 5*g - 17 = -4, 4*g + 14 = 2*h. Find the common denominator of 5/23*((-66)/5)/h and 1/4 - 518/(-24)."
+-5.15476,8.147617,numbers,Calculate the smallest common multiple of (56/(-16))/((2/2)/(17 - 35)) and 448.
+0.6175307,10.133495,numbers,Let r = -24/77 - 1877/154. What is the common denominator of 131/30 and r?
+-5.3643312,0.8842264,numbers,Let i = -4683/10 + 469. Let b = -1631 + 2352. Let h = 2122/3 - b. Find the common denominator of h and i.
+0.7682952,9.833847,numbers,Let n = -135320 + 24357491/180. What is the common denominator of 3/80 and n?
+-9.172511,4.401169,numbers,"Suppose 84 = 4*u + 4*b, -41*u = -40*u - 5*b - 15. Let z = 130 + -78. Calculate the lowest common multiple of z and u."
+-5.322696,8.109136,numbers,What is the least common multiple of 18/((-22)/1*11/(-44) - 4) and 455?
+-8.464889,4.5476127,numbers,"Let a = 5 + 0. Suppose 4*w = -3*q + w + 45, a*q + 3*w - 73 = 0. Suppose -317 + 119 = -11*i. Calculate the smallest common multiple of q and i."
+-5.8303876,7.816272,numbers,What is the smallest common multiple of 9012 and ((-3)/(-9))/(9*(-6)/(-3564))?
+42.539616,4.017893,numbers,What is the hundred thousands digit of 13547222?
+43.3924,4.692042,numbers,What is the millions digit of 40338258?
+41.353714,4.629545,numbers,What is the ten thousands digit of 59702591?
+41.47881,4.4040327,numbers,What is the ten thousands digit of 95467701?
+43.25902,4.68965,numbers,What is the millions digit of 41962001?
+39.850483,6.979852,numbers,What is the units digit of 89730574?
+42.874996,3.3965945,numbers,What is the hundreds digit of 12180145?
+42.522366,4.89288,numbers,What is the ten millions digit of 15717739?
+41.01092,4.416631,numbers,What is the tens digit of 57033299?
+41.64347,3.9971535,numbers,What is the thousands digit of 66729816?
+-15.072592,54.80939,probability,"What is prob of picking 1 x and 1 z when two letters picked without replacement from {z: 2, x: 1, l: 6}?"
+-15.729455,53.637146,probability,"Calculate prob of picking 1 l and 3 f when four letters picked without replacement from {m: 3, l: 2, f: 7, r: 1}."
+-14.88087,51.702465,probability,"What is prob of picking 3 o and 1 s when four letters picked without replacement from {o: 9, s: 4}?"
+-15.165063,51.47438,probability,"Two letters picked without replacement from {p: 1, i: 1, q: 1, o: 1}. What is prob of picking 1 o and 1 i?"
+-15.586814,55.550667,probability,"Three letters picked without replacement from {x: 10, k: 5}. Give prob of picking 3 x."
+-15.8867445,55.460243,probability,Three letters picked without replacement from ckccccccckcpkcccpcck. Give prob of picking 3 k.
+-15.514684,53.75113,probability,"Calculate prob of picking 1 c, 2 l and 1 j when four letters picked without replacement from {l: 3, c: 1, e: 2, f: 1, j: 1}."
+-12.373291,56.440414,probability,Calculate prob of picking 1 b and 3 y when four letters picked without replacement from byybyybbybbbybb.
+-15.571741,53.840855,probability,"Four letters picked without replacement from {f: 3, c: 1, k: 1, m: 1}. What is prob of picking 1 m, 2 f and 1 c?"
+-14.06476,56.492,probability,"Four letters picked without replacement from {a: 15, d: 1}. What is prob of picking 4 a?"
+-19.468485,16.155582,arithmetic,Simplify 5*(5*(sqrt(3) + -3*1*sqrt(3) + 1 - (1*sqrt(9)*4)/sqrt(3)))**2.
+-19.074106,16.364874,arithmetic,Simplify (sqrt(2448) + 3*1*sqrt(2448) + -3 - (-2*(sqrt(2448) + -2) + 0))**2.
+-17.89045,15.532052,arithmetic,Simplify -1*-3*(5*(-1 + (sqrt(3)*3 - sqrt(3))) + (sqrt(3) + 1 + -3)*-3).
+-17.831614,15.687138,arithmetic,Simplify -3*(sqrt(500) + -2 + 1) - ((sqrt(200)/(sqrt(8) + sqrt(72)))/sqrt(5) + 0).
+-19.331022,15.4768915,arithmetic,Simplify (-3*(-2 + sqrt(288) + 0) + (sqrt(288) - (0 + sqrt(288))*2) + sqrt(288)*2 + 4)**2 + 5.
+-19.096725,16.607988,arithmetic,Simplify (sqrt(2736)*1*-6 + 1 + 1 + sqrt(2736))**2 - (-1*((sqrt(2736) + -1 + 3 - sqrt(2736)) + 1*sqrt(2736) + 5))**2.
+-18.846004,15.672445,arithmetic,Simplify 2 + 0 + (-1*sqrt(147)*3 - ((sqrt(147) - (sqrt(147) + sqrt(147) + 0)*-5)**2 + sqrt(147) - sqrt(147))) + 5.
+-17.861572,16.275888,arithmetic,Simplify (((-3*sqrt(64)*5)/sqrt(8))/((sqrt(1152)*-5 - sqrt(32))/sqrt(8))*1)**2.
+-18.315723,15.984958,arithmetic,Simplify ((sqrt(80) - sqrt(80)*1)**2*-5 - ((2*sqrt(80)*-1)**2 - sqrt(80))) + 2 - (-2 + sqrt(80) + 0)*-4*2.
+-17.559464,17.023964,arithmetic,Simplify (sqrt(65) + sqrt(65) + 3*-1*sqrt(65) + sqrt(65) + (5*(-2*sqrt(65) - sqrt(65)) - sqrt(65)) + sqrt(65))/(4*-1*(sqrt(720) + 1*sqrt(720))).
+5.263091,-22.652779,comparison,Let n = -0.24 - -0.04. Let v = -10.39 + 10. Let w = 0.29 + v. Which is the closest to n?  (a) -1  (b) 1/8  (c) w
+7.2615614,-22.670408,comparison,Let t = 2712 + -2710. Which is the nearest to -8?  (a) -4  (b) 52  (c) t
+-21.099997,-14.073092,comparison,"Let o(x) = -x**2 - 50*x - 149. Let h be o(-3). Suppose 4*l - 7 = 2*w - 1, 0 = 4*l - 16. Which is the nearest to 1?  (a) w  (b) 0.5  (c) h"
+4.4179506,-21.658613,comparison,Let n = 5 + -4.6. Let t = 297.27 - 1.27. Let r = -297 + t. Which is the nearest to -0.01?  (a) r  (b) -2/5  (c) n
+1.9741986,-19.323029,comparison,"Let g be (8/(-48))/(2/8). Let o = 4 - -14. Let x = -17 + o. What is the nearest to g in 0.3, x, -2?"
+7.387023,-23.330406,comparison,Let v = 224 + -223. Let t = 4 + -4.5. Which is the closest to -2/3?  (a) t  (b) v  (c) 20
+6.1903877,-23.347618,comparison,Let t be 10/2 - (1 - 0). Let w = -1067 + 1072. Which is the closest to 12?  (a) w  (b) 2/5  (c) t
+-3.8188367,-17.2441,comparison,"Suppose 13 = 2*p - 3*t, 5*p = 8*t - 7*t. Let k be 9/((-18)/10) - (p + -2). Let v be 6/(-5) - 1*-1. What is the nearest to 1/2 in k, -2/9, v?"
+10.402788,-24.33626,comparison,"Let d = 444 - 444. What is the nearest to d in 3, 23, 0.1, -4/9?"
+5.522396,-21.711031,comparison,Let n = 12053.3 - 12053. Let x = 2.6 + -13.6. Which is the closest to x?  (a) -0.4  (b) -2  (c) n
+-25.203432,-9.591895,polynomials,Let q(a) = 3*a**2 - 2*a + 2. Let f(b) = 11*b**2 + b + 10. Let h(n) = -f(n) + 4*q(n). Let d(s) = 3*s**2 - 28*s - 7. Determine -2*d(g) + 7*h(g).
+-25.603195,-12.467451,polynomials,Let v(q) = -6*q - 859. Let r(a) = 1 - 2*a. Calculate 4*r(b) - v(b).
+-25.056187,-10.963283,polynomials,Let b(f) = 5 - 39*f**3. Let z(p) = 155*p**3 - 20. Calculate 11*b(r) + 3*z(r).
+-15.280533,-7.2400365,polynomials,Suppose 0*z + 17 = z. Let c(m) = 8*m. Suppose -2*l - 77 = -119. Let x(u) = -4*u - 7*u - 7*u + l*u. Give z*x(q) - 6*c(q).
+-23.426403,-10.050998,polynomials,Let x(s) = s + 1. Let n be 3 + -2 - -2 - (-3 - 4). Suppose -6*r = -n*r + 40. Let i be 17/(-4) - r/(-40). Let p(w) = w**2 - 5*w - 5. Determine i*p(h) - 20*x(h).
+-26.332352,-10.429755,polynomials,Let h(f) = f - 11. Let y(u) = 10 - u. Let i be (0 + -1)*(2 + (11 - 3 - 7)). Calculate i*h(a) - 4*y(a).
+-25.067688,-13.658188,polynomials,Let m(j) = 52*j**2 - 143*j - 7. Let q(y) = 42*y**2 - 143*y - 6. Determine 4*m(w) - 5*q(w).
+-24.801105,-9.363423,polynomials,Let g(a) = 2 - 2*a**2. Suppose 0 = -16*v + 16*v - 4*v - 12. Let y(q) = -q**3 + 5*q**2 - 6. Calculate v*y(h) - 8*g(h).
+-17.858757,-10.317143,polynomials,Suppose 3*c - 4 + 19 = 0. Suppose 0 = -22*g + 72169 - 71641. Let t(x) = -6*x. Let o(j) = -j. Determine c*t(h) + g*o(h).
+-22.058836,-10.006666,polynomials,"Let l(b) = 6*b**3 - 7*b**2 + 10*b + 7. Let s(z) = 3*z**3 - 3*z**2 + 5*z + 3. Suppose -n = 5*k + 16, 44 - 52 = k + 5*n. Give k*l(r) + 7*s(r)."
+-0.94250464,0.085906506,numbers,Let b be 2114/(-3)*21/(-14). Let x = b + 634. Is x a composite number?
+-13.184178,-4.0607247,numbers,"Suppose 4*a = -5*b - 16, a + 6 = -b + 2. Suppose 3*i + 13 = 28, -33840 = -5*d + 4*i. Is d/(-2)*(b + 3/(-6)) a prime number?"
+-0.66189533,0.011399492,numbers,Is (-130153)/(-7) - 162/567 a composite number?
+-13.972636,-3.149257,numbers,"Suppose -3*s + 14*t = 16*t - 1243375, 0 = -s - 4*t + 414465. Is s a prime number?"
+-1.0469886,0.05352342,numbers,Let n be 1 + (0 - 2) - (-246)/6. Let f = n - 46. Is 2574/10 - ((-24)/10)/f a composite number?
+-14.898403,-2.4427328,numbers,"Let s = -125 + 135. Suppose 2 = -y, s*y - 8*y = 5*z - 1829. Is z prime?"
+-1.9157298,-0.39838654,numbers,Let m(q) = 1 - 399*q. Let o be (-2)/(1/((-4)/8)). Let c be 1 - (-4 + o + 6). Is m(c) a composite number?
+-0.7200043,0.059347883,numbers,Is (232/(-12) - 1)*(-230 + -7) a composite number?
+-33.52105,-7.994114,numbers,Let m(l) be the first derivative of -45*l**2 + 79*l + 58. Is m(-4) composite?
+-11.623034,-1.9995677,numbers,"Suppose 3*o + 18694 = u, 4*u - 3084 + 15542 = -2*o. Let t = -1448 - o. Is t a composite number?"
+27.78783,-37.52443,algebra,"What is the next term in -42003, -42220, -42583, -43092, -43747?"
+29.691948,-36.036995,algebra,"What is next in 1460679, 1460681, 1460681, 1460679?"
+29.484049,-36.934044,algebra,"What is the next term in 5209, 10397, 15557, 20689, 25793?"
+29.75845,-36.61829,algebra,"What is next in 100115, 400457, 901025, 1601819, 2502839, 3604085, 4905557?"
+28.939941,-36.909008,algebra,"What is the next term in 47738, 47661, 47584, 47507, 47430?"
+27.741257,-37.475323,algebra,"What is the next term in -51745, -103733, -155721?"
+27.328062,-36.385735,algebra,"What is next in -44354801, -44354800, -44354799, -44354798, -44354797?"
+27.801203,-36.38489,algebra,"What is next in -1160, -1141, -984, -623, 8?"
+27.728998,-37.106625,algebra,"What comes next: -481515, -963007, -1444499, -1925991, -2407483, -2888975?"
+29.742218,-36.52782,algebra,"What comes next: 1517, 3065, 4659, 6323, 8081, 9957, 11975?"
+30.56192,24.181507,measurement,How many grams are there in one eighth of a kilogram?
+30.558357,24.18476,measurement,How many grams are there in one eighth of a kilogram?
+31.173834,19.926624,measurement,Convert 20215.1us to seconds.
+30.96692,20.646618,measurement,What is 6061.884 days in nanoseconds?
+32.894657,19.292149,measurement,Convert 598817.3 millennia to decades.
+33.62688,22.081772,measurement,What is 1/2 of a millimeter in micrometers?
+30.91718,20.592981,measurement,Convert 85513.59 hours to nanoseconds.
+31.495516,23.065254,measurement,How many tonnes are there in 1.650246 micrograms?
+33.769226,23.93918,measurement,Convert 96739.9ml to litres.
+34.66721,23.823547,measurement,What is seventeen fifths of a litre in millilitres?
+-26.148659,2.636705,algebra,Let -3*c**2 + 446577*c + 4019436 = 0. What is c?
+-25.321295,2.3452032,algebra,"Find u, given that -2*u**2 + 3052*u/3 - 87952/3 = 0."
+-28.609018,5.3754234,algebra,Factor i**3/3 + 2290*i**2 - 133961*i - 408752/3.
+-24.853779,7.559853,algebra,Factor -2*v**2 + 17716*v + 1809718.
+-25.893673,1.8341268,algebra,"Find s, given that 2*s**2/7 - 14644*s + 410000/7 = 0."
+-28.067068,6.8558755,algebra,Factor -40*p**4 - 12345*p**3 - 485100*p**2 - 5123140*p.
+-27.756626,1.6737034,algebra,"Find m, given that 4*m**4 + 184*m**3 - 364*m**2 - 28624*m + 126720 = 0."
+-27.82622,6.472651,algebra,Factor -5*r**3 + 2005265*r**2 - 201061404255*r + 1407331573515.
+-25.228945,2.579803,algebra,Let -60*q**2/13 - 15286*q/13 - 29854 = 0. What is q?
+-27.71279,2.841989,algebra,What is g in 5*g**4/4 - 277215*g**3/2 + 15352989345*g**2/4 + 230669215425*g + 3461910445125 = 0?
+11.562904,11.407226,arithmetic,What is -8322912 divided by -513?
+12.147795,10.672361,arithmetic,What is -171 divided by -26929?
+13.779046,12.734054,arithmetic,What is -1987544 divided by 4?
+12.941647,18.513039,arithmetic,Divide 1 by 3968874.
+11.654045,19.884197,arithmetic,Divide 16780596 by 13069.
+12.050228,19.87471,arithmetic,6346953 divided by 42597
+12.249195,20.526833,arithmetic,Calculate 4510485 divided by 1505.
+12.937971,12.687232,arithmetic,Divide 41054 by -21.
+13.604243,11.780929,arithmetic,What is 26397024 divided by -4?
+12.308508,20.99251,arithmetic,Calculate 5128812 divided by 9.
+38.823208,-11.70332,arithmetic,What is the tenth root of 66969383 to the nearest integer?
+39.010868,-13.456662,arithmetic,What is the square root of 35892377 to the nearest integer?
+38.780304,-11.67645,arithmetic,What is the tenth root of 99426897 to the nearest integer?
+39.8547,-13.136915,arithmetic,"What is 24157233 to the power of 1/2, to the nearest integer?"
+39.946404,-11.17938,arithmetic,"What is 93192163 to the power of 1/8, to the nearest integer?"
+39.566284,-12.86366,arithmetic,"What is 65797941 to the power of 1/2, to the nearest integer?"
+39.72547,-11.201084,arithmetic,"What is 76594843 to the power of 1/5, to the nearest integer?"
+39.69384,-11.451921,arithmetic,What is the eighth root of 56969804 to the nearest integer?
+38.987316,-13.326717,arithmetic,What is the square root of 1568982 to the nearest integer?
+39.736248,-12.948619,arithmetic,"What is 91906944 to the power of 1/2, to the nearest integer?"
+-11.94604,-13.940814,numbers,"Suppose 5*w + 7*g + 18424 = 3*g, 3*g - 7388 = 2*w. Round w to the nearest 100."
+22.37188,-11.9262085,numbers,Let i = -10759.38605 + 10764.4. Let v = i - 25.0139884. Let w = 20 + v. What is w rounded to 6 decimal places?
+21.64332,-11.268807,numbers,Let u = 223294870 + -223295138.999691. Let p = -269 - u. Round p to 4 decimal places.
+22.26858,-11.513535,numbers,Let z = -14755803.48 + 14755660.4799582. Let u = z + 143. Round u to 6 dps.
+24.4127,-9.811525,numbers,Let b = -1672.996751 - -1673. What is b rounded to 4 decimal places?
+23.019226,-11.805964,numbers,Let b = 1188 - 600. Let l = b + -588.1431. What is l rounded to two dps?
+23.635715,-9.770438,numbers,Let r = -1.5277815 - -1.526. Round r to five decimal places.
+22.380854,-12.532791,numbers,Let w = 38.25 - -0.75. Let y = w - 40. Let q = y + 1.0011. Round q to 4 decimal places.
+-39.525818,-9.723632,numbers,Let l(v) be the third derivative of -18167*v**5/20 + v**4/12 + 32*v**2. Let o be l(2). What is o rounded to the nearest 100000?
+20.773834,-11.865378,numbers,Let k = -443.7 + 444.205. What is k rounded to 1 dp?
+-3.9840631,16.305042,numbers,Calculate the smallest common multiple of 40752 and 946352.
+-4.2557087,16.061575,numbers,Calculate the lowest common multiple of 10647 and 1092.
+-0.24884243,9.535889,numbers,Calculate the common denominator of 83/4 and -55/3695222.
+-0.5637904,9.781518,numbers,Calculate the common denominator of -39/21260 and 53/2880.
+-0.94994336,9.615661,numbers,What is the common denominator of -59/1393100 and 23/1894616?
+-3.477681,15.492435,numbers,Calculate the smallest common multiple of 18 and 2721033.
+-3.6604712,16.243244,numbers,Calculate the lowest common multiple of 756 and 215724.
+-3.6830053,15.93693,numbers,What is the lowest common multiple of 2878589 and 742?
+-3.968379,15.479153,numbers,What is the lowest common multiple of 16 and 2099300?
+-0.80684435,10.415722,numbers,Find the common denominator of 179/840780 and 95/298944.
+-14.012699,55.166992,probability,"Three letters picked without replacement from {j: 2, p: 2, r: 1, s: 3, d: 1}. What is prob of sequence jrs?"
+-12.883823,51.556812,probability,Calculate prob of sequence eeee when four letters picked without replacement from eeteneeeeeeeneee.
+-14.252611,51.539413,probability,"Four letters picked without replacement from {a: 5, o: 4}. Give prob of sequence oaoo."
+-15.857349,53.05072,probability,"What is prob of sequence fw when two letters picked without replacement from {l: 4, f: 1, w: 1, j: 3}?"
+-13.069916,50.98358,probability,What is prob of sequence teet when four letters picked without replacement from tteotheeo?
+-10.979207,56.418915,probability,Calculate prob of sequence lay when three letters picked without replacement from zaly.
+-11.739122,55.834347,probability,Three letters picked without replacement from uyyyaaaaaxcyyaaa. Give prob of sequence yxy.
+-11.332395,52.390526,probability,Four letters picked without replacement from bxxpjqpxbjqq. Give prob of sequence ppxb.
+-10.666971,51.884636,probability,Calculate prob of sequence bp when two letters picked without replacement from bvaaaavcaepvaa.
+-12.7030735,53.194355,probability,"Calculate prob of sequence wxe when three letters picked without replacement from {x: 3, o: 3, e: 6, w: 2}."
+31.980358,1.7029957,numbers,What is 122021330 (base 4) in base 6?
+31.500204,1.6374835,numbers,22455 (base 15) to base 6
+30.766348,2.557628,numbers,What is 1146052 (base 7) in base 13?
+30.380362,0.42535537,numbers,What is -44967 (base 11) in base 3?
+32.065907,1.7607778,numbers,2320501 (base 6) to base 2
+30.263617,0.8186095,numbers,What is -622134 (base 7) in base 11?
+30.941545,2.8157773,numbers,What is 352645 (base 7) in base 14?
+29.941116,2.447711,numbers,What is 100011110001101100 (base 2) in base 13?
+31.029724,2.9587977,numbers,What is 331071 (base 8) in base 14?
+31.604893,1.0829734,numbers,Convert 20013134 (base 5) to base 3.
+-39.161224,-8.961538,polynomials,Let k(u) be the third derivative of 13*u**4/24 + 19*u**3/6 + 451*u**2. Calculate k(-3).
+-27.040102,-12.019916,polynomials,Let z(n) = -1 + n + 2 + 2. Let r be (-24)/(-14)*((-51)/6 - (-49 + 44)). Give z(r).
+-21.999823,-11.30739,polynomials,"Let o(j) = -j**2 + 6*j + 22. Let f be o(8). Suppose 17*r - f = 15*r, -26 = -5*x - 2*r. Let w(y) = 8 - 3*y. Determine w(x)."
+-25.633121,-13.98148,polynomials,Let w(d) = d**2 + 3*d - 52. Let b(m) = 182 - 16*m. Let u be b(11). Calculate w(u).
+-18.417002,-8.606946,polynomials,Let z(d) = 1 - 2*d - 3 + 1. Suppose -52 = 7*j - 9*j. Suppose 90 = 8*p - j*p. Give z(p).
+-15.266172,-11.528996,polynomials,"Suppose 20 = 5*t + 2*a, -t = 5*a - 0*a - 4. Let g(q) = -3*q - 60 + 30 + 4*q + 28. Calculate g(t)."
+-34.04775,-11.470972,polynomials,"Suppose -5*d = 3*j + 71 - 25, -5*d + 2*j = 61. Let a = d + 16. Let u(t) be the second derivative of -t**4/12 + 5*t**3/6 + t**2/2 + 257*t. What is u(a)?"
+-23.265068,-13.073479,polynomials,Let a(k) = 255 - 255 + 7*k - k**2. Let x be a(6). Let p(q) = 4*q + q**2 + 0*q**2 + x*q - 15*q. Give p(6).
+-23.124178,-11.884524,polynomials,Let x(q) = 7*q**2 + q - 1. Let n(f) = f**2. Let i(o) = 5*n(o) - x(o). Let m(y) = 15*y - 37 - 102*y**2 + 114*y**2 + 9 - y**3. Let k be m(13). What is i(k)?
+-25.883888,-11.190045,polynomials,Let y(u) = 0*u - 4*u - 6*u**3 + 5*u + 5*u**3 + u**2. Let j(n) = 5*n**3 - 11*n**2 - 5*n + 10. Let b(a) = -j(a) - 4*y(a). Give b(7).
+-20.529451,-16.130508,comparison,Let j(b) = -40*b**3 - 2*b**2 + 13*b - 21. Let o be j(2). Is -322 < o?
+4.3925233,-18.334097,comparison,Let g = -1511 - -1423. Is -80 at most g?
+4.075331,-0.7989775,comparison,Let p be (-3 - 0)/(-18) + (-3)/((-54)/(-39)). Which is bigger: p or -26/47?
+3.7999222,-1.7902583,comparison,Let l be (-12)/(-99)*(2 - 42/20). Let b be 2448/(-2310) + (-2)/(-6). Let k = b - l. Is k at most as big as -1?
+-10.916129,-7.7939887,comparison,"Suppose i - 14 = 23. Suppose -2*j + 6*j - 3*v + 319 = 0, -j - 5*v = 51. Let h = -39 - j. Is h equal to i?"
+-7.4253244,-4.9592566,comparison,Let b = 1 + 2. Let g be (26/6 - -2)/((-7)/(-21)). Suppose -16*d - 9 = -g*d. Is b != d?
+-22.862675,-14.846951,comparison,Let f(d) = d**2 - d - 1. Let q(z) = -3*z**2 + 13*z - 17. Let t(b) = -2*f(b) - q(b). Let a be t(9). Which is bigger: 1/25 or a?
+5.417163,-18.707779,comparison,Let c = 5529 + -4034. Which is greater: 1496 or c?
+-23.739843,-15.914896,comparison,Let z(c) = c**3 - 6*c**2 + 2*c + 1. Let v be z(6). Let l = v + -17. Let t be (64/180)/(-4)*(-6)/l. Is 1 bigger than t?
+-22.777609,-14.975025,comparison,Let i(f) = -2*f**2 - 59*f - 140. Let t be i(-25). Which is greater: 948/11 or t?
+8.783646,-17.182512,comparison,Which is greater: 138 or 67566?
+9.214337,-17.23654,comparison,Is 534832 greater than 534853?
+11.225122,-18.6769,comparison,Which is smaller: -1246348 or -3739040/3?
+9.229523,-17.052532,comparison,Is 14618 less than 13557?
+9.218682,17.582575,comparison,Is 697649/5 > -3?
+8.912641,-17.499844,comparison,Which is bigger: 1860235 or 1860236?
+11.031037,-19.681368,comparison,Which is greater: -2/5 or -8241085?
+9.22497,18.008696,comparison,Is 533 bigger than 2064/11?
+11.394409,-17.638475,comparison,Which is smaller: 1650 or 279000/169?
+9.554871,-18.42715,comparison,Which is smaller: 7.262 or 241?
+27.767088,16.328457,measurement,How many minutes are there between 6:19 PM and 4:12 AM?
+28.481192,16.01437,measurement,How many minutes are there between 10:44 AM and 7:49 PM?
+26.506405,15.480906,measurement,What is 288 minutes before 9:56 AM?
+27.941793,16.957233,measurement,How many minutes are there between 10:15 PM and 1:09 AM?
+26.669706,15.519935,measurement,What is 178 minutes before 1:11 AM?
+27.418612,15.35272,measurement,What is 22 minutes before 7:19 PM?
+27.271322,17.131422,measurement,How many minutes are there between 1:18 AM and 1:19 AM?
+28.188665,16.185865,measurement,How many minutes are there between 1:46 PM and 8:18 PM?
+27.604637,14.737827,measurement,What is 397 minutes after 5:26 AM?
+28.164806,14.600014,measurement,What is 483 minutes after 4:36 PM?
+-18.096914,-4.8829374,numbers,Suppose u + 7 = 78. Let v(g) = -g**3 - 8*g**2 + 8*g - 1. Let s = -54 - -45. What is the remainder when u is divided by v(s)?
+2.5228155,3.879404,numbers,Calculate the remainder when ((-54)/216)/(2/(-4904)) is divided by 88.
+-9.791935,-4.5853934,numbers,"Suppose -3*c - 3*x + 7*x + 2524 = 0, -2*c = -3*x - 1684. What is the remainder when c is divided by 12?"
+-0.596393,4.506202,numbers,Let n = -428 - -1263. Calculate the remainder when n is divided by 166.
+-0.7865215,4.4378514,numbers,Let m = -433 - -613. Let g = 321 - m. What is the remainder when g is divided by 36?
+-24.265789,-6.158901,numbers,Let h(w) = 42*w**3 + 4*w**2 - 8*w - 5. Calculate the remainder when h(2) is divided by 76.
+-18.853971,-6.031665,numbers,Let l(c) = -95*c - 3022. Let g = 37 - 14. Calculate the remainder when l(-33) is divided by g.
+-22.695631,-12.814937,numbers,Let w(q) = 2*q**2 + 18*q + 2. Let k = -188 + 179. Calculate the remainder when 4 is divided by w(k).
+-10.100897,-5.239815,numbers,"Suppose 118 - 115 = 3*i, 2*i = 3*t - 76. Calculate the remainder when 248 is divided by t."
+-25.812489,-5.3160825,numbers,Let o(r) = 3*r**2 - 34*r + 129. Calculate the remainder when o(14) is divided by 45.
+31.97208,-12.490732,numbers,What is -82129.518 rounded to the nearest ten thousand?
+29.467855,-15.146763,numbers,What is 1.8973487 rounded to 3 decimal places?
+29.44607,-15.015948,numbers,Round 0.0118662208 to 3 decimal places.
+28.825506,-13.587962,numbers,What is -0.0034347175 rounded to 6 dps?
+31.375597,-13.741257,numbers,What is -14.942208 rounded to zero decimal places?
+33.470135,-12.436565,numbers,Round 9639410 to the nearest 100000.
+33.880234,-12.810771,numbers,What is 351567650 rounded to the nearest one hundred thousand?
+28.833132,-13.617024,numbers,What is -0.000083029788 rounded to seven dps?
+29.1128,-14.931161,numbers,What is 0.00000145324423 rounded to seven decimal places?
+29.501379,-15.336401,numbers,Round 2.73786885 to four decimal places.
+8.7083235,0.17372248,arithmetic,Calculate (-8730)/330 - (-47 + 20).
+6.6882944,4.3230042,arithmetic,What is ((-45)/18)/((10/(-240))/((-2)/8)*-15)?
+9.132019,2.7469475,arithmetic,What is -54 + 92/(-3933)*-2322?
+6.9284077,4.8199525,arithmetic,What is the value of (15/9)/(10 - (-315)/42*-7)?
+6.297398,0.9719861,arithmetic,(-4)/((-7404)/720 + 60/50 + 9)
+5.1283526,6.134572,arithmetic,(8/(-63))/((-7304)/(-361548))
+7.799086,1.8134862,arithmetic,What is -11 - ((-4)/16)/(24/1020)?
+2.711486,6.6679845,arithmetic,What is 115/7 + 4336/7588?
+8.207226,0.09371184,arithmetic,Evaluate ((-10320)/(33 + -3))/8.
+5.983904,6.6204424,arithmetic,Evaluate 1/(-63)*161/(-69)*(-1)/(-1).
+-25.604046,15.553752,polynomials,Expand (0*n - n + 4*n)*(-8 + 10 + 1 + (-1 + 0 + 7)*(-3 + 2 + 2)*(-2 - 1 + 1)).
+-25.462862,17.055752,polynomials,Expand (10 - 15 - 41 + 2 + 2 - 1 + (3 + 0 - 2)*(-2 + 2 + 2) + 4 + 0 - 1)*(-h + 5*h - 2*h).
+-26.377026,15.693346,polynomials,Expand (-71*f**2 - 13*f**2 + 34*f**2)*(0 - 1 + 6)*(-5*f**2 + 4*f**2 - 2*f**2).
+-27.502966,15.622776,polynomials,Expand (-4 - 5 - 2)*((-3*r + 3*r - 2*r)*(-5 + 1 + 2) + 2*r - 2*r + 4*r + (-3 - 4 + 3)*(r + r - 3*r)).
+-24.478882,13.9383545,polynomials,Expand (67 - 6*o**5 + 58 + o - 131)*(-4 + 1 + 0).
+-25.948244,15.356811,polynomials,Expand (1 + 1 + 0)*(-4*b + b + 4*b)*(-59 + 4*b + 30 + 2*b**2 + 24).
+-24.810461,15.664187,polynomials,Expand (-7*a**2 + 14 - 14)*(-48*a**2 + 36*a**2 + 28*a**2).
+-27.288126,15.473422,polynomials,Expand ((-1 + 4 - 4)*(-8*r + 3*r + 0*r) + 2231 - 2231 - 45*r)*(-r**3 - 2 + 5*r**3 + 0).
+-27.607494,15.99604,polynomials,Expand (-11*v - 72*v - 15*v)*(-v**2 - 6*v**2 - 3*v**2 + (0*v - 4*v + 2*v)*(3 - v - 3)).
+-24.587961,13.975925,polynomials,Expand (-2058*o - 1921*o + 1043*o)*(2*o + 4 - 4).
+-42.591873,-10.966667,calculus,What is the first derivative of 559*a*o**2 - 38*a*o + 22*a + 2*o**2 - 1424989*o wrt a?
+-42.0886,-9.869696,calculus,Find the first derivative of -b*r*s**2 - 3*b*r*s - 6363651*b*r - 7730*r*s wrt s.
+-41.974968,-11.661894,calculus,Differentiate 8106682*u**2 + 14853615 with respect to u.
+-40.108044,-11.175075,calculus,What is the second derivative of 14*h**2*l**5 - 2*h**2 + h*l + 112435*l**5 - 2002290*l wrt l?
+-39.81975,-7.6636496,calculus,Find the third derivative of 56*j**6 + 1475*j**4 + j**3 - 3*j**2 - 1769677 wrt j.
+-40.705303,-6.8818145,calculus,What is the third derivative of 16517395*w**6 - 2*w**2 + 184*w + 15203 wrt w?
+-40.95227,-12.49086,calculus,What is the derivative of -11*p**2*v**3 - 569078*p**2 - 625175*p*v**3 + 2 wrt v?
+-40.769566,-8.060827,calculus,Find the third derivative of -877585*y**3 - 8*y**2 + 853*y + 10 wrt y.
+-41.526318,-11.081748,calculus,Differentiate h*t**2 + 2*h*t + 362*h + 288*t**2 - 1590*t - 14020 with respect to t.
+-41.438293,-12.508406,calculus,What is the derivative of 2*v**3 + 908585*v - 618526 wrt v?
+-23.67301,-17.067396,polynomials,Let c(r) = -3*r**3 + 25*r**2 - 59*r + 313. What is c(6)?
+-22.138006,-19.77187,polynomials,Let w(m) = 163*m - 26336. Determine w(161).
+-23.459824,-19.866379,polynomials,Let c(s) = 121*s + 6765. Give c(-57).
+-22.172897,-19.73299,polynomials,Let m(p) = 1182*p + 189117. Calculate m(-160).
+-25.470959,-15.486048,polynomials,Let d(v) = v**3 - v**2 - 288*v - 1371. Give d(-13).
+-24.460487,-20.297918,polynomials,Let y(t) = -222*t - 24608. What is y(-111)?
+-20.76745,-19.25129,polynomials,Let n(q) = 2122*q - 392564. What is n(185)?
+-25.046171,-16.899233,polynomials,Let i(a) = a**3 - 18*a**2 - 339*a + 6095. Calculate i(19).
+-26.023565,-17.118063,polynomials,Let k(b) = 18*b**2 - 9*b - 50. Determine k(9).
+-25.274748,-18.372612,polynomials,Let a(p) = -52*p**2 + 423*p - 4. Determine a(8).
+18.523165,-7.1447563,arithmetic,Total of 153346342872 and -0.5.
+22.107132,-6.3394766,arithmetic,-37536+822.308
+18.005043,-5.7671595,arithmetic,Sum -325 and -405744898.
+11.104741,-22.099165,arithmetic,What is the distance between 0.08 and -111560778.39?
+18.166586,-6.3348927,arithmetic,Put together -0.04 and -6163166470.
+22.95662,-6.9726977,arithmetic,Subtract 32 from 334500.4387.
+21.572655,-4.8672247,arithmetic,Calculate 5 - 39755163359.
+18.113518,-8.72922,arithmetic,Add together 9877984 and 6.5.
+17.511871,-6.521751,arithmetic,-0.57000252 + -1.1
+21.920366,-5.988282,arithmetic,-0.6358+12036578
+17.339304,7.073416,arithmetic,3 times -437.0571
+18.903782,6.530516,arithmetic,Calculate 10.475*-602.
+18.298483,5.3738556,arithmetic,Calculate 0.2*-62483.7.
+20.643059,8.578143,arithmetic,What is 8.99 times 1953?
+21.048029,7.05817,arithmetic,0.2*2498522
+18.563309,7.5916977,arithmetic,-1166.41 times 4
+16.751616,6.1919885,arithmetic,What is the product of -5176580 and -0.1?
+17.356663,5.299617,arithmetic,Product of -0.09321 and -1.2.
+20.821749,7.9506564,arithmetic,0.08 * 101726.7
+21.195393,7.9447904,arithmetic,What is the product of 0.0317527 and 2.7?
+-29.666656,14.063695,polynomials,Express -7*u**3 + 3*u**3 + 13 - 15 - u**4 - 4*u**3 - 2*u - 4*u**2 + u in the form i*u**4 + b*u**3 + r + n*u**2 + t*u and give t.
+-29.79921,13.113314,polynomials,Rearrange 505*k**2 + 14*k**3 - 26*k**3 - 2 + 45*k**3 - 32*k**3 to y*k + z + t*k**2 + w*k**3 and give t.
+-30.75038,14.784156,polynomials,Express -z**2 + 30 - 4*z**3 + 13*z**4 + 2*z**2 - 14*z**4 + 2*z**3 - 29 - 2*z in the form d + j*z**4 + c*z**2 + i*z**3 + n*z and give i.
+-30.297142,14.206039,polynomials,Express -1 + 189*a**3 - 3*a - 1 - 20*a**2 - 96*a**3 - 100*a**3 + 0 as c*a + n*a**2 + i + g*a**3 and give n.
+-30.99426,15.33141,polynomials,Rearrange 19*j + 4 - 43*j - 3 + 22*j + j**3 - 31*j**4 to the form d*j + b*j**3 + x*j**2 + g + i*j**4 and give b.
+-29.082718,12.434368,polynomials,Express (-2 - 1 + 2)*(-24 + g + 24) + (24 + 24 + 17)*(-2*g + 4 - 4) as t*g + i and give t.
+-30.565784,13.881969,polynomials,Express 765207*a**3 + 8 - 28 - 765217*a**3 + 4*a**2 - 7*a**2 as z + w*a**3 + r*a + f*a**2 and give w.
+-28.286009,14.3286295,polynomials,Rearrange (-4 + 3*f + 4)*(-1 + 1 + 2*f)*(-f - 2*f + 2*f + (-54*f + 167 - 167)*(-4 + 4 - 1)) to r + d*f + q*f**3 + i*f**2 and give q.
+-29.694538,14.778564,polynomials,Rearrange n**2 - n**2 - n**2 + (-1 + 1 - 2)*(5*n**2 - 2*n**2 - 2*n**2) - 1029*n**2 - 8282*n**2 + 0*n - 618*n**2 + 0*n to the form r*n + o + b*n**2 and give b.
+-32.137424,16.421041,polynomials,Rearrange -2065*s - 945*s + 139*s + 505*s to c + q*s and give q.
+-29.799559,1.92529,algebra,"Determine o, given that 4034*o - 271445 - 5*o**2 - 1491*o - 213*o = 0."
+-24.476461,8.009195,algebra,Factor -2*y - 48/5 + 2/5*y**2.
+-38.092754,-8.022373,algebra,Let a(c) be the third derivative of c**6/24 + 5*c**5/4 + 20*c**4/3 - 40*c**3 - 10*c**2 - 25*c. Factor a(g).
+-36.331318,-5.646705,algebra,Let b(o) be the third derivative of 2*o**7/315 - 41*o**6/90 - 35*o**5/9 - 223*o**4/18 - 20*o**3 - 2*o**2 + 226*o. Solve b(a) = 0.
+-37.948837,-7.2369547,algebra,Let h(z) be the third derivative of 0*z**6 + 0*z**5 + 1/630*z**7 + 0 + 0*z - 9*z**2 - 3/4*z**4 + 0*z**3. Let r(i) be the second derivative of h(i). Factor r(x).
+-38.65294,-5.5783205,algebra,Let f(z) be the first derivative of 21*z**4/4 + 30*z**3 + 123*z**2/2 + 54*z - 726. Factor f(r).
+-38.38458,-6.9584303,algebra,Let m(c) be the third derivative of 0*c + 0*c**5 + 1/30*c**4 + 77*c**2 + 0*c**3 - 1/600*c**6 + 0. Factor m(z).
+-36.26545,-7.019547,algebra,Let k(y) be the third derivative of -2*y**7/525 - y**6/75 - y**5/75 - 1316*y**2. Suppose k(g) = 0. What is g?
+-36.34633,-6.885034,algebra,Let w(m) be the third derivative of -4*m**7/35 - 31*m**6/40 - 7*m**5/5 + m**4/2 - 93*m**2 - 9*m. Find k such that w(k) = 0.
+-37.091007,-6.144052,algebra,Let s(j) be the third derivative of -j**6/780 - 19*j**5/390 - 83*j**4/156 - 5*j**3/3 - 2*j**2 - 362*j. Let s(n) = 0. What is n?
+-4.001912,-5.8758273,numbers,Suppose 970025 = -16*w - 386455. What is the units digit of (w/(-22))/9 + 2/(-11)?
+-18.659937,-13.18323,numbers,Let v(l) = -77*l**3 + l**2 - l + 2. Let s be v(1). Let d(i) = 71*i - 2. Let x be d(2). Let r = x + s. What is the units digit of r?
+-1.6081626,-5.0760703,numbers,"Suppose -14 = -4*k - m + 1, m = -5. What is the hundreds digit of -2 - (k + -277 + -2)?"
+-12.044579,-3.4076712,numbers,"Suppose 10*x + 5*j - 35 = 5*x, 3*j = 12. Suppose 0 = -b + 9*y - 11*y + 326, -x*y - 321 = -b. What is the hundreds digit of b?"
+-17.803495,-13.118997,numbers,Suppose 12 - 3 = h. Let q(l) = -14 + 13*l + 1 - 1 - 6. What is the units digit of q(h)?
+3.2771177,1.6714929,numbers,Let i be ((-5)/(30/4))/((-3)/9). What is the units digit of 257/(-2*(-1)/4*i)?
+-10.348871,-2.2336614,numbers,Let u = 17 + -7. Suppose -17*g + u*g = -2667. What is the units digit of g?
+-19.039717,-13.885431,numbers,Let h(b) = -33 - b**2 + 12*b - 5*b**2 + 0*b**2 - b**3 + 25. Let x be h(-6). Let s = x + 149. What is the units digit of s?
+-1.5135779,-5.001675,numbers,Suppose -11*k + 9*k - 544 = 0. What is the tens digit of (2/5)/((-9)/45) - k?
+-11.145979,-2.5002892,numbers,"Suppose 1672 - 4183 = -9*o. Suppose u - 73 = c + o, -3*c = -u + 348. What is the hundreds digit of u?"
+5.3950224,4.3198953,arithmetic,Evaluate ((-2)/(-24))/((((-29920)/(-336))/(-55))/((-2)/7)).
+5.70412,3.746656,arithmetic,Calculate ((-1)/(-2)*(-25)/(-125))/(1/((-520)/(-24))).
+7.3701143,4.2113504,arithmetic,Calculate (7*60/(-16170))/(2/21).
+4.062781,2.8767614,arithmetic,What is the value of 8/(88/352*(-16)/4)?
+6.5506673,5.827477,arithmetic,What is the value of ((-27)/594*6)/(30/100)?
+5.081446,5.090807,arithmetic,Evaluate ((29/(-58))/(2/6))/(-6*5/65).
+4.308525,4.8764486,arithmetic,((-1900)/(-152)*(-8)/30)/((-24)/144)
+7.1668215,2.9097319,arithmetic,What is the value of (-2*(-3)/(-10))/(5/(-25))*1320/(-90)?
+3.8150232,5.8944907,arithmetic,1890/36*152/190
+9.304336,4.442648,arithmetic,What is the value of 49296/(-7189)*14/(-80)?
+10.15298,-5.022522,arithmetic,What is the value of -7 - (23 - (1 + -9 + 9))?
+9.665688,-5.971896,arithmetic,(131 - 68 - 42) + 0 + -37
+12.709749,-3.0342755,arithmetic,(1 + 13 - 1) + 7985 + -7986
+10.649364,-5.9012666,arithmetic,Calculate (51 - 11) + 1 + 0 - (-43 + 36).
+14.685307,-6.2908697,arithmetic,What is the value of -146 + 106 + 3 + 63?
+13.31281,-4.4033294,arithmetic,-8 + -17 + 13 - -35
+12.59539,-4.4748516,arithmetic,Calculate (-16 - (-28 + 16 - -29)) + (3 - -9).
+10.600976,-4.405054,arithmetic,Evaluate -7 + (6 - -3 - (-25 - -56)).
+13.528512,-5.5001984,arithmetic,What is 0 + -3 + (2 - 3 - -56) + -281 + 276?
+12.9110775,-5.670995,arithmetic,Evaluate 28 - (30 + 41 + -29).
+-3.6545715,-21.471436,comparison,"Let x be ((-578)/(-26))/(303/(-4) + -3). Let f = 2/585 - x. Let i = 17.3 + -3.3. Sort 0.4, i, f in increasing order."
+-2.2870882,-24.451557,comparison,"Suppose -247 + 249 = -n. Let f = -7 - -11. Put f, n, -24 in increasing order."
+-23.33801,-10.709116,comparison,"Let n(f) = 2*f**3 + 3*f**2 + 4*f + 4. Let z be n(-2). Let v(x) = -x**3 + 3*x + 3. Let m be v(-2). Let a be (68/(-221))/((-8)/52). Sort m, a, z."
+-3.4364798,-23.066984,comparison,"Let i = 49.67 - 0.67. Let q = -2098 + 2054. Let r = q + i. Put 4, r, 0 in increasing order."
+-3.370028,-23.51601,comparison,"Let m = 970.5 + -970. Put -0.8, 0.2, 3/5, m, 3 in ascending order."
+-2.151749,-22.866697,comparison,"Let g = -1532 - -1535.202. Let c = g - 0.202. Put 1, -2, c, -3/5 in descending order."
+-10.13059,-20.382826,comparison,"Suppose 74 = -121*c - 11 + 569. Let n(p) = p**2 + 6*p + 5. Let t be n(-4). Put t, c, 3, 5 in ascending order."
+-11.091867,-20.448921,comparison,"Let l(c) = -2*c - 1. Let j be l(4). Let r = 17042 - 17044. Put r, j, 1 in decreasing order."
+-1.6973289,-23.229235,comparison,"Let d = -3376 - -3381. Put 0, -22, d in descending order."
+-7.492183,-19.764547,comparison,"Suppose 0 = -10*s + 35 + 15. Let l be 2 + (3 - 6) + s. Suppose i = -2 + l. Sort -2, 5, i, -3 in descending order."
+9.434035,-27.489882,comparison,Which is the closest to -2/7?  (a) -2/11  (b) -3  (c) -0.7961  (d) -12
+11.285856,-24.48346,comparison,"What is the closest to 266 in -0.2, 1, -0.1, 15.2?"
+8.642839,-27.368952,comparison,Which is the closest to -971?  (a) -1  (b) -2/15  (c) 5  (d) 2/1977
+9.542,-26.513014,comparison,Which is the closest to -1?  (a) 3  (b) 4/5  (c) 5.7  (d) 13  (e) -3/20
+9.433574,-28.8479,comparison,Which is the closest to 44/1561?  (a) 2/25  (b) 1/12  (c) -4  (d) 3
+8.893761,-25.693008,comparison,Which is the nearest to 0.47?  (a) 23  (b) -128  (c) -4  (d) 0.3
+9.857318,-26.777311,comparison,Which is the nearest to 4?  (a) -2/5  (b) 0.3  (c) -592  (d) -55  (e) -1/3
+9.331517,-25.576523,comparison,Which is the nearest to 19?  (a) 7  (b) -1/3  (c) 131/3  (d) -4
+9.118805,-26.010754,comparison,Which is the closest to 1.4?  (a) 4  (b) -1/4  (c) 7  (d) -389
+11.835613,-24.639198,comparison,"What is the nearest to 0 in 4, -217, -1?"
+5.5135517,-26.956928,comparison,Which is the smallest value?  (a) -5  (b) 0.4  (c) 0.15  (d) 31272
+3.1556082,-27.853683,comparison,Which is the second smallest value?  (a) -2.095  (b) -0.5  (c) 303/4  (d) -6/5
+2.4161327,-29.441854,comparison,Which is the third smallest value?  (a) 0  (b) 1/2  (c) -19  (d) -7/326  (e) -3
+9.92097,-20.612795,comparison,"What is the smallest value in -276, -0.1, -1/8359?"
+5.430901,-29.03348,comparison,Which is the biggest value?  (a) 5  (b) -343  (c) -0.468  (d) 4  (e) 0  (f) -3
+5.409623,-28.944464,comparison,Which is the biggest value?  (a) 299  (b) -0.3  (c) -1  (d) 2  (e) 0.5  (f) 3/19
+1.653764,-27.267935,comparison,Which is the second biggest value?  (a) 53/776  (b) 4  (c) 0
+2.4239068,-29.423916,comparison,Which is the third smallest value?  (a) -0.2  (b) -1058  (c) 0.23  (d) -1/3  (e) 0.4  (f) -5  (g) 4
+5.1689696,-28.966974,comparison,"What is the biggest value in 0.02, -1.2, 0.085, -2/59, -3?"
+5.448334,-27.011292,comparison,Which is the smallest value?  (a) 1.8  (b) -4  (c) 62  (d) 7/6  (e) 0
+-2.8349671,-30.706202,comparison,"Sort 5, -6741/2, 88.1 in decreasing order."
+-3.6064365,-32.76832,comparison,"Sort -9, -3, 4, 0, -27, 5, -40 in descending order."
+-3.115273,-32.125687,comparison,"Put 3, -4, -3, 536799, 5, 0 in descending order."
+-2.3137271,-32.23969,comparison,"Put -2, -1, 5, 18958 in decreasing order."
+-2.2821271,-30.440502,comparison,"Sort 12, 3.5, 25, 0, -2, -2/11 in descending order."
+-2.5023866,-31.852898,comparison,"Put -3, 9, 928, 305 in descending order."
+-4.346161,-31.76305,comparison,"Put -71, 5, -3, -1, 43, -23 in increasing order."
+-1.609009,-29.71335,comparison,"Put 11/155, -6/11, 2.2 in descending order."
+-2.7471452,-33.583702,comparison,"Sort 724, 0.5, -2, -60."
+-2.2487652,-30.508427,comparison,"Sort 52, 2/9, 209, -5, 0, -0.4, 0.4 in descending order."
+28.57334,-40.93162,algebra,"What is the b'th term of -147098, -294247, -441396, -588545, -735694, -882843?"
+28.87964,-40.973625,algebra,"What is the b'th term of -2577, -10316, -23207, -41244, -64421, -92732?"
+29.97827,-40.036198,algebra,"What is the p'th term of 375990, 1503966, 3383926, 6015870, 9399798, 13535710?"
+29.883432,-39.344822,algebra,"What is the y'th term of 507, 1116, 1799, 2526, 3267, 3992?"
+28.585299,-39.75642,algebra,"What is the s'th term of -160, -740, -2258, -5188, -10004?"
+28.309319,-40.564148,algebra,"What is the d'th term of -12807, -12989, -13283, -13695, -14231, -14897, -15699?"
+29.546406,-41.20754,algebra,"What is the c'th term of -10673, -10604, -10523, -10430?"
+30.260206,-40.336872,algebra,"What is the q'th term of 10623, 20558, 30477, 40374, 50243?"
+28.42956,-40.078682,algebra,"What is the m'th term of -1416, -4186, -8310, -13788, -20620?"
+29.999426,-39.83871,algebra,"What is the w'th term of 61177, 122343, 183479, 244573, 305613?"
+22.599924,-4.1840453,arithmetic,"In base 10, what is -7 - 1174541?"
+30.607956,-0.4535727,arithmetic,"In base 3, what is -221120011121220 + 11?"
+22.561117,-4.127708,arithmetic,"In base 10, what is 32997354 - -1?"
+31.20859,-1.8761032,arithmetic,"In base 12, what is 2 + 139b68b?"
+27.070784,0.23979212,arithmetic,"In base 5, what is 1131 - 2212230?"
+27.608465,2.0907078,arithmetic,"In base 2, what is 0 - 10000101110000000011011?"
+28.11735,0.08894374,arithmetic,"In base 15, what is 6ea - 1b5a?"
+27.440205,0.03341573,arithmetic,"In base 9, what is -572 - 5530?"
+27.110825,0.18538885,arithmetic,"In base 5, what is 12320222 - -42?"
+28.40231,0.6506066,arithmetic,"In base 16, what is -16 + 6fc4a?"
+-21.497284,-10.112037,algebra,Let f(y) = 5*y**3 + y**2 + 8*y - 20. Let r be f(2). Solve 27*k = 37*k + r for k.
+-12.883427,-10.553365,algebra,Suppose 0 = 32*f - 26*f - 24. Let w = 23 - 8. Solve m = f*m - w for m.
+-19.57049,-10.635872,algebra,"Let t(w) = 17*w + 102. Let a be t(-6). Suppose 4*n - 2*c + a*c - 24 = 0, -2*c + 12 = 5*n. Solve -5*s = -7*s + n for s."
+-22.349123,-10.374876,algebra,Let g(l) = 3*l - 14. Let s be g(7). Let n(b) = -b**3 + 7*b**2 + 7*b - 2. Let w be n(s). Let f = w - 38. Solve -2*k + 5*k = f for k.
+-16.187664,-8.630444,algebra,"Let o be -1*4 - (-27)/((-15)/(-5)). Suppose o*x = -4*j + 11, -5*j - x = -4*x - 23. Solve -u = -j + 8 for u."
+-14.822155,-7.626266,algebra,Let q be 8/((-6)/(-3)) + -2. Let f = 23 + q. Solve 0*z + f = -5*z for z.
+-23.049347,-9.639703,algebra,Let m be 830/(-747)*72/(-20). Let c(r) = -r**2 - 2*r - 1. Let s be c(-1). Solve f + m*f = s for f.
+-22.551117,-10.56523,algebra,"Let f(h) = -h**3 - 4*h**2 - h + 2. Let b be f(-2). Let j be b/(-26) - (-22)/26. Suppose -4*m = -2*r + m + j, -5*r - 2*m = -17. Solve r = -g - 2 for g."
+-12.862036,-8.286187,algebra,"Suppose -5*f = 2*r - 4, 3*f + 16 - 4 = 0. Solve 452*z - r = 456*z for z."
+-11.867833,-11.869783,algebra,"Suppose 0 = -2*v - a + 17, 25 = -2*a - 3*a. Solve 0 = 10*y - v - 19 for y."
+-29.425972,19.63945,polynomials,Collect the terms in 16 + 2 + 921*z - 500*z - 2 - 482*z.
+-29.155437,19.93794,polynomials,Collect the terms in 3400 - 2*y - 7983 + 4583.
+-28.52906,19.35303,polynomials,Collect the terms in 25654 + 140*f - 25654.
+-26.987429,19.012724,polynomials,Collect the terms in -5536*j + 3327 + 5588*j - 3326.
+-30.145252,19.330177,polynomials,Collect the terms in -9*h + 385366 + h + h.
+-29.862354,17.215254,polynomials,Collect the terms in 3253*n - 169*n**3 - 6503*n + 3250*n + 547*n**3.
+-28.645098,19.06792,polynomials,Collect the terms in -38100*f - 38135*f + 114333*f - 38145*f.
+-29.250805,16.965733,polynomials,Collect the terms in -35*r**3 - 37752624*r**2 + 37752624*r**2.
+-30.587866,18.455439,polynomials,Collect the terms in 823*u + 25*u**2 + 42*u**2 - 811*u.
+-30.573261,18.68349,polynomials,Collect the terms in -9 - 376*u + 93*u + 93*u + 74*u + 90*u.
+-38.40663,-7.1824675,calculus,Let d(m) be the first derivative of 152*m**5 - 437*m**3/3 - 2*m - 1442. What is the third derivative of d(z) wrt z?
+-37.41735,-8.110967,calculus,Let h(p) be the second derivative of 29/6*p**4 + 19/14*p**7 + 0*p**5 + 0*p**6 - 1 + 0*p**2 + 26*p - 1/3*p**3. Find the third derivative of h(a) wrt a.
+-38.206104,-10.407663,calculus,Let h(r) be the first derivative of r**5/5 + 485*r**3/3 - 9*r**2/2 + 5*r - 510. What is the second derivative of h(c) wrt c?
+-37.32978,-11.766854,calculus,"Suppose 2*v + 4 = 10. Suppose -4*d = d + 4*u - 40, 5*d - v*u = 5. What is the second derivative of 3*j + 12*j**4 - 29*j**d + 7*j wrt j?"
+-40.678383,-6.8808627,calculus,Find the third derivative of w - 1055*w**2 - 3*w**6 + 291*w**2 + 8*w**6 - 63*w**3 + 503*w**2 wrt w.
+-36.52718,-9.99861,calculus,Let y(o) be the second derivative of -139*o**4/3 + 307*o**2/2 + 1330*o. Differentiate y(i) with respect to i.
+-37.8242,-12.114416,calculus,Suppose 7*v = 10 + 18. What is the second derivative of -48*t**4 - 6*t**4 - 5*t - 6*t - v*t**4 - 1 wrt t?
+-37.012165,-11.458994,calculus,"Suppose 0 = 4*h - h - 9. Suppose 4*c = -c + 4*w + 45, -h*c - 2*w + 5 = 0. What is the second derivative of 4*d**c + 6*d - 3*d + d**5 + 4*d**5 wrt d?"
+-42.320107,-8.286348,calculus,Find the first derivative of 20*q**4 + 14*q**4 + 8*q**2 - 7123*q + 7123*q - 520 wrt q.
+-36.626804,-8.068641,calculus,Let g(t) = t**2 + t - 1. Suppose -59 = 7*p - 87. Let l(c) = 22*c**5 - 6*c**2 - 4*c + 12. Let a(i) = p*g(i) + l(i). What is the third derivative of a(m) wrt m?
+-23.853104,-12.736837,polynomials,Let a(q) = q**2. Let k(f) = -667608*f. What is k(a(u))?
+-27.4125,-14.002129,polynomials,Let f(b) = -27*b - 256. Let d(v) = -5*v - 48. Let q(o) = 16*d(o) - 3*f(o). Let w(i) = -i + 4 - 1 - 7*i. Calculate w(q(s)).
+-23.658703,-13.343871,polynomials,Let l(o) = 6*o**2. Let y(q) = 2*q**2 + 7435 - 7437 - 34*q**2. Determine y(l(p)).
+-34.649773,-8.435681,polynomials,Let k(u) be the third derivative of -u**5/15 - 1046*u**2. Let r(z) = -2*z**2 - 47. Determine r(k(v)).
+-28.327038,-12.612942,polynomials,Let o(w) = 8*w**2 + 327. Let z(v) = -123*v. What is o(z(n))?
+-33.913654,-9.3472595,polynomials,Let l(w) = -2*w**2. Suppose 0 = 368*s - 407*s. Let n(h) be the third derivative of 15*h**2 + 13/30*h**5 + 0*h + 0*h**4 + 0*h**3 + s. What is n(l(g))?
+-33.745945,-9.28083,polynomials,Let m(l) = 297 - 33*l. Let d be m(9). Let c(s) be the third derivative of d*s + 0*s**4 - 6*s**2 + 0 + 1/12*s**5 + 0*s**3. Let o(z) = -3*z. Calculate o(c(a)).
+-28.126316,-11.378107,polynomials,Let g(j) = 5*j - 2. Let b(p) = 4*p**2 + 30*p - 12. Let z(y) = -b(y) + 6*g(y). Let k(t) = 71*t - 2. Calculate z(k(n)).
+-25.448278,-12.054683,polynomials,Let p(r) = 107*r. Let x(w) = -73392*w. Give x(p(b)).
+-27.392906,-10.330277,polynomials,Let h(v) = -9*v - 18. Let s(y) = 1 - 12*y. Let z(m) = 1 - 10*m. Let c(a) = s(a) - z(a). What is c(h(j))?
+1.9461732,-20.553402,comparison,Let o = -26.4 + 181.4. Let x = 157 - o. Which is the smallest value?  (a) -0.04  (b) 2/3  (c) x
+0.42614016,-21.092482,comparison,Suppose 2*n = -0*n - 6. Let m = -503 - -502.791. Let y = m - 0.191. Which is the second smallest value?  (a) 2  (b) n  (c) y  (d) 4
+2.0424995,-24.292318,comparison,Let l = -51 - -35. Let v = l - -22. Let f = 12.9 - 13. Which is the fourth biggest value?  (a) -0.2  (b) 1/5  (c) v  (d) f
+0.83895826,-21.78791,comparison,"Let k be (-5)/(-15) - (-17944)/(-84). Let i = k - -213. What is the fourth smallest value in 2, 3, i, -0.2?"
+1.3069044,-21.773394,comparison,"Let p = -3.162 + 2.162. What is the second smallest value in -1/32, 4, p?"
+1.644309,-24.327852,comparison,"Let l be (-76)/180 + 8/36. Let f = -6612 + 158711/24. Let c = f + -5/8. What is the fourth biggest value in -4, 2/7, c, l?"
+-1.204329,-17.971636,comparison,"Let p = -3.2 + 3. Let o = -3057.5 + 3057. Suppose 0 = 4*q + 2*k + 28, -q - 2*k = 12 + 1. Which is the smallest value?  (a) o  (b) q  (c) p"
+2.2517915,-24.45588,comparison,Let v be (-6)/(-9)*207/(-276). Which is the fourth biggest value?  (a) v  (b) 2  (c) -296  (d) 3
+1.6828179,-22.933807,comparison,Let n be 2/(-3) + (-8)/(-21). Let j = -91.84 + 91.44. Let i = -1.5 - -1.5. Which is the biggest value?  (a) j  (b) n  (c) i
+0.39618444,-23.119305,comparison,"Let b = -15199 + 15201. Let y = -13 + 27. Let z = -8 + y. What is the second biggest value in b, 1, -4, z?"
+4.4479227,29.186275,numbers,Is 183753107 composite?
+5.160343,31.583834,numbers,Is 459669059 a prime number?
+4.491781,31.229555,numbers,Is 684746201 a prime number?
+4.9207406,31.124691,numbers,Is 118464833 prime?
+4.388515,29.025297,numbers,Is 1450503961 composite?
+4.4665055,28.981104,numbers,Is 163544393 a composite number?
+5.2838845,31.130693,numbers,Is 292713109 prime?
+5.4259586,31.817394,numbers,Is 589530829 a prime number?
+4.134769,28.977236,numbers,Is 839233919 a composite number?
+4.6383567,31.211838,numbers,Is 100527617 a prime number?
+-21.086721,-3.0377455,numbers,Let a(w) = 13 - 10*w. Let r = -207 + 202. Is 27 a factor of a(r)?
+-7.446827,-2.5453734,numbers,Let s be 26*2/2*(1 - 6). Let r = s + 224. Suppose 37*o + r = 39*o. Does 16 divide o?
+-10.657003,-5.9648542,numbers,"Let f = 60 - 14. Suppose -2*i = 2*t + f, i + i + 3*t = -46. Is i*-3*(-8)/(-12) a multiple of 13?"
+-15.312449,-5.3286924,numbers,"Let q be 4/6 - 4/6. Suppose -y + 2 = -q. Suppose -5*m = y*n - 176 + 13, 0 = -m - n + 32. Is 8 a factor of m?"
+-14.059354,-4.9205213,numbers,"Suppose -4*u + 635 = -117. Let s = u + -98. Suppose -3*a + s = 4*p - 33, 4*a = p - 45. Is 11 a factor of p?"
+7.2269506,20.35212,numbers,Let m = 10072 - 6038. Does 23 divide m?
+-20.487904,-4.4943085,numbers,Let u(z) = -6*z - 21. Let c be u(10). Let o = c + 128. Let a = o + -30. Is 11 a factor of a?
+-12.396912,-5.11706,numbers,"Suppose 10 - 40 = -2*a - 4*w, -2*a - w + 30 = 0. Suppose -f + a = -6*f, 0 = -d - 5*f - 27. Does 6 divide (3/d - -1)*24?"
+2.2370613,1.0803097,numbers,Is (4 + (-114)/24)*2 - 1278/(-4) a multiple of 5?
+7.4040723,20.91849,numbers,Let m = 1319 + 4729. Is 42 a factor of m?
+13.196672,24.542284,numbers,What is the remainder when 57775 is divided by 15?
+14.954944,25.096024,numbers,Calculate the remainder when 598909 is divided by 7678.
+14.203091,24.302185,numbers,What is the remainder when 195400 is divided by 1073?
+14.174572,23.966457,numbers,What is the remainder when 2419196 is divided by 210?
+13.877831,24.569351,numbers,What is the remainder when 105504 is divided by 52743?
+15.275687,24.98014,numbers,Calculate the remainder when 5602 is divided by 2567.
+14.058976,25.033255,numbers,Calculate the remainder when 2059999 is divided by 50.
+13.876073,22.949986,numbers,What is the remainder when 2891433 is divided by 9?
+14.391161,24.717943,numbers,Calculate the remainder when 5028260 is divided by 1257065.
+14.639036,24.147331,numbers,Calculate the remainder when 28534571 is divided by 297.
+-10.02218,-13.144648,algebra,Solve 1065*g = 613*g - 11300 for g.
+-5.2797117,-9.155433,algebra,Solve -71193 = -369*d + 2219*d - 2743 for d.
+-5.5263095,-8.94828,algebra,Solve -65*c + 15*c = -341 - 309 for c.
+-2.7523317,-14.565954,algebra,Solve -245*q + 6344 = -5171 for q.
+-4.1648846,-7.5193577,algebra,Solve 405*w - 181*w = -200*w + 6003 + 10957 for w.
+-3.6941545,-11.13229,algebra,Solve 2818*k - 49208 - 55058 = 0 for k.
+-4.0931206,-9.857529,algebra,Solve 0 = 100*p + 64*p - 93*p - 3266 for p.
+-4.2880907,-11.823837,algebra,Solve -348*t + 1252 - 1948 = 0 for t.
+-3.7575724,-10.934423,algebra,Solve 0 = -59*k - 24*k + 213 - 1873 for k.
+-5.37427,-13.60068,algebra,Solve -884*v + 12826 = 282*v for v.
+-5.9235377,-5.9192543,algebra,"Let r be -2*(-2)/((-8)/14). Let f = 0 - r. Let h = 153 - 149. Solve -h*w = -8, 3*d = -w + 5*w + f for d."
+-7.9485064,-11.921996,algebra,"Suppose 22*m - 37*m + 3*m = 0. Solve l = -4*s - 15, -2*s - 5*l + m*l - 3 = 0 for s."
+-16.052082,-10.275093,algebra,"Suppose 11*t - 12*t = 21. Let j(s) = -s**2 - 22*s - 19. Let k be j(t). Solve -12 = k*i + 3*o, 4*i + 3*o + 10 = 4*o for i."
+-35.613853,-9.690955,algebra,"Let z(f) be the second derivative of f**5/20 + f**4/3 - f**3/3 + 4*f**2 + 6*f. Let s be z(-4). Let i = 18 - s. Solve -3*l + 9 = 3, -i*u = -2*l for u."
+-12.4709015,-10.005161,algebra,"Let m be 4/1 - (-13 - (-20 - -13)). Solve -3*l - 1 + 6 = 4*f, -3*f = -4*l - m for f."
+-12.494562,-7.3185854,algebra,"Suppose 2*x + 9 = -s + 34, 4*s = 4*x - 68. Suppose -x*g = -12*g. Solve 0 = 3*a + 9, g = -3*d - 0*a + a for d."
+-21.378202,-12.3096285,algebra,"Let o(d) = -633 + d**3 + 580 + 29*d**2 - 4*d + 30*d. Let x be o(-28). Solve 4*q - x*q + 2 = v, v = 3*q for v."
+-6.892724,-4.923053,algebra,"Let r be (-202)/(-6) + (-14)/(-63)*-3. Let q be 42/(-11) - 6/r. Let b = q - -7. Solve 5*a + b = -3*n + n, -5*n - a + 4 = 0 for n."
+-15.542171,-10.1341095,algebra,"Let g be (-4)/1 + (7 - 2 - 1). Suppose k - 9*k + 48 = g. Solve 2 = -j - 4*t, 0*t = -3*j - 3*t - k for j."
+-20.764198,-11.197401,algebra,"Let a(k) = 64*k + 12. Let f be a(3). Let t = f - 200. Solve -4*j = -2*m + t, -4 = 2*j + 2*j for m."
+-22.111925,-8.3100815,numbers,Let b(f) = f**3 + 10*f**2 + 3*f + 5. Let k be b(-10). Suppose 0 = -2*y - 0*y - 2. Let w be k/(-10)*15*(-4)/y. What is the greatest common divisor of w and 30?
+-20.862545,-5.87561,numbers,Let s = -106 - -199. Let z(x) = 2*x**2 - 6*x - 3. Let u be z(7). Let f = s - u. What is the highest common factor of f and 5?
+-23.142282,-6.3579845,numbers,Let s(w) = w**3 + 8*w**2 + 17*w - 15. Let p be s(-6). Let l = p - -61. What is the highest common factor of l and 128?
+-3.837783,4.125123,numbers,Let b be (0 - -33)/((-21)/(-14)). Let d be 32794/114 - (-5)/(-3). Calculate the greatest common factor of b and d.
+-24.619097,-3.4343286,numbers,Let y(k) = k**2 - 24*k + 202. Let a be y(24). What is the greatest common factor of 4343 and a?
+-9.701272,0.29866034,numbers,"Suppose 0 = -2*m - 6, -4 = c + 6*m - 2*m. Suppose 17*p - 1863 = c*p. Calculate the highest common divisor of 23 and p."
+-20.692278,-5.483665,numbers,Let b(z) = 2*z + 7. Let i be b(6). Let d = -2273 - -2292. What is the greatest common factor of d and i?
+-9.700502,0.39454445,numbers,"Let x = 240 - 232. Suppose 2*l = -4*n - 52, 4*l + 7*n + 88 = 3*n. Let c be (l/4 - -1)*-16. Calculate the highest common divisor of c and x."
+-3.754036,4.1591487,numbers,Let f = 2427 + -1365. Calculate the greatest common factor of 295 and f.
+-34.580353,-6.7330294,numbers,Let i(k) be the first derivative of 14*k**2 + 14*k + 3. Let t be i(3). Let y = -11 - -25. What is the greatest common divisor of t and y?
+-19.025421,22.24226,polynomials,Simplify (b**(3/13))**(-2/27)*b**(-1/7)/(b**(-2)*b**3/b) assuming b is positive.
+-19.550524,22.038351,polynomials,Simplify (g**(-11))**(-31)*(g**(2/7)/g*g**3)**(-16) assuming g is positive.
+-18.768044,20.408457,polynomials,Simplify (l**12/((l*l**(-2/3)*l)/(l/(l/(l**(-1)*l)))))/(l**(-46)/(((l*l/(l*(l*l**(-3))/l)*l)/l)/(l/l**(2/5)))) assuming l is positive.
+-20.192598,22.383347,polynomials,Simplify j**48*j**(-3)*(j/((j*j**2*j)/j))/j*(j**(-5/3)/j*j**(-4/7))/j**(3/37) assuming j is positive.
+-18.80296,21.854202,polynomials,Simplify (a*a**(-2/21))/a**(-2/5)*a**(-3/2)*(a**3/a*a*a*a**3)**16 assuming a is positive.
+-18.418856,21.229645,polynomials,Simplify (((z**4*z**(2/5))/((z*z/z**(-2))/z**(1/5)))**(-29))**7 assuming z is positive.
+-18.595549,21.86029,polynomials,Simplify (a**1/a*a/a**(-1))**(-1/30)*(a*a/(a/(((a*a**2)/a)/a*a))*a**2)**(-4) assuming a is positive.
+-20.385254,20.620317,polynomials,Simplify o**(-18)/((o/(o**(-4)*o*o))/(o*o**(-2)))*o**(-2/89)/((o/o**4)/o**(-1/7)) assuming o is positive.
+-18.357012,20.682257,polynomials,Simplify (z/(z/(z*z**(-3)))*(z*z*z/(z/z**(-1)))/z*z*z/(z**3*z)*z/(z**5/z)*z)/(z**0/(z/(z**(-3/8)/z))*z/z**(2/3)*z/z**(-2)) assuming z is positive.
+-19.239038,22.848312,polynomials,Simplify (s**(1/36))**(-39)/(s**(-2/11)/s**(24/11)) assuming s is positive.
+1.0170273,30.946217,numbers,What are the prime factors of 85761674?
+0.4859123,30.08391,numbers,List the prime factors of 11052427.
+0.59122294,30.052351,numbers,List the prime factors of 95782821.
+1.0295438,31.33608,numbers,What are the prime factors of 73622281?
+-0.36353454,30.344921,numbers,List the prime factors of 61711166.
+1.0340925,31.05563,numbers,What are the prime factors of 97443828?
+0.8469861,31.363096,numbers,What are the prime factors of 11328143?
+0.88932115,30.01323,numbers,List the prime factors of 49445083.
+0.3521653,31.167925,numbers,What are the prime factors of 41744240?
+0.4402263,30.087936,numbers,List the prime factors of 96293720.
+10.077323,22.91948,numbers,Is 9973787 a multiple of 10?
+9.004973,22.722937,numbers,Is 23258210 a multiple of 6?
+7.3831534,24.534695,numbers,Is 1192 a factor of 85462279?
+6.9693394,24.757835,numbers,Is 1280 a factor of 10538204?
+8.086866,22.907558,numbers,Is 25671024 a multiple of 13?
+7.930665,24.15912,numbers,Is 17 a factor of 22496984?
+8.180738,23.870413,numbers,Does 222 divide 16630464?
+7.870216,22.81833,numbers,Does 140 divide 13692271?
+9.945415,22.922329,numbers,Is 51633264 a multiple of 100?
+8.6570015,22.699495,numbers,Is 26473384 a multiple of 3401?
+-15.949153,-2.056814,numbers,"Suppose -2*t = 3 - 9. Suppose -3*z + z = 3*w + 40, -66 = 5*w + t*z. Let m(k) = -k**2 - 16*k - 9. What are the prime factors of m(w)?"
+-22.69072,-5.272839,numbers,Let h(s) = 101*s**2 + 8*s - 88. List the prime factors of h(7).
+-14.317421,0.29951304,numbers,Suppose d - 2*d + 5719 = -0*d. List the prime factors of d.
+-14.177512,-2.107904,numbers,"Suppose z - 5*l - 4452 = 2742, 0 = -2*z + 3*l + 14353. List the prime factors of z."
+-16.552591,-3.9081647,numbers,"Let f(h) = 2197*h**2 - h - 1. Let v be f(1). Suppose 5*o + v = 5*u, -4*u + 2*o = 7*o - 1792. What are the prime factors of u?"
+-22.134804,-3.7328758,numbers,Let o(u) = -22*u - 7. Let v(w) = 1 - w. Let r(a) = -2*o(a) + 18*v(a). List the prime factors of r(15).
+-22.474598,-4.525671,numbers,Let r(g) = 7*g**2 + 4*g + 4. Let j(m) = 43 - 10*m. Let z be j(5). What are the prime factors of r(z)?
+-22.526955,-6.3222747,numbers,Let g(c) = 3*c**3 - 13*c**2 + 6*c + 8. Let s be g(4). Suppose -s*p = -12*p - 1136. What are the prime factors of p?
+-14.188593,-3.5225153,numbers,"Suppose -10*o + 12*o - 3*j - 228 = 0, 5*j + 454 = 4*o. Suppose o*s = 103*s + 2144. List the prime factors of s."
+-13.753626,-1.9161408,numbers,"Suppose 2*y = 4*n + 1964, 20*y = 21*y + 3*n - 997. What are the prime factors of y?"
